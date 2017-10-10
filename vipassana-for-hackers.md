@@ -205,7 +205,7 @@ For this reason, the above anechoic chamber has a record of 45 minutes for the l
 
 The above three examples serve as templates with external input guiding one's understanding of what is happening neurologically.
 
-# Anapana Meditation
+# Anapana Meditation: Practicing Focus
 
 The first 3.5 days of a 10-day Vipassana course are spend practicing "Anapana" (breath) meditation. This period is very important as it is time spent practicing acute, one-pointed attention. If we imagine our attention as a pink dot, the goal is the following clown effigy:
 
@@ -230,6 +230,156 @@ If we revisit the notion that "meditation is a thing", we can see a specific exa
 As much as possible, we are forcing our attention to the sense of touch. In the above diagram, our attention is (realistically) not perfectly on a tiny spot under our nose. We are still likely to hear sounds around us on the 3rd day of the course, especially if the sound is monkeys clamboring over the roof of the meditation hall.
 
 
+# Vipassana Meditation: Mutually-Recusive Consciousness I/O
+
+Oddly enough, Vipassana mostly seems to be about remaining calm. If you're thinking "you're sitting there, silent, for 10 hours a day... what is there to get upset about?" you are in for a surprise. But first, a quick overview of the early mechanics of Vipassana:
+
+[ v2 slides 79 - 85 ]
+
+Attention is moved from the nostril area to the top of the head, then systematically moved across every body part, down to the toes. This process then repeats. More complex variations are added as the bodily sensation experienced through this probing of the nervous system becomes increasingly subtle. In this order:
+
+* Add toes-to-head to head-to-toes
+* Dual/symmetrical observation (both arms, both legs)
+* Observation of a "ring" around the entire body
+* Observation of as much of the body as possible (while moving attention up and down)
+* Penetrating attention of muscles, tissues, organs
+* Penetrating attention of the spinal cord
+* Randomized attention in fingertip-sized dots throughout the body, inside and out
+* Sweeping attention through the entire body from top to bottom / bottom to top in a single breath
+
+Through this process, attention will move from the sense of touch to all the internal senses and the sense map will look more like this:
+
+[ v2 slide 86 ]
+
+I should note that I have never successfully penetrated my muscles or inner tissues much. The average new meditator is likely to feel a great many fascinating sensations on her fingertips, palms, arms, toes, and legs. The torso, since it is surrounded in longer nerve fibres, will take longer to observe in the same way.
+
+As a Canadian who spent little (if any) of my childhood sitting cross-legged on the floor, the following diagram rougly summarizes most of my meditation experiences:
+
+[ v2 slide 87 ]
+
+...where the purple dots are intense pain and the pink dot continues to be my awareness. At the peak of my meditation practice toward the end of a course, I would find that if my attention were somewhere away (say, my neck) from the painful area of my body (say, my knees), I may not feel any pain at all. As I moved my attention around, the pain in my knees would come back as I approached them, but every time I could sustain focus on another part of my body, the pain would appear to decrease with every return visit to my knees. If I can remain calm and focused while away from my knees, my knees' pain seems to take care of itself. If I can remain calm and focused while my attention moves across my knees, the situation continues to improve.
+
+If you can’t feel pain in your knees despite the fact that the pain is “real”, you have effectively eliminated (some) sensory input. This is possible for all sensory input. The 5 classic sense-doors will quite clearly shut down in deep meditative states. Just because your eyes are closed does not make you blind. Light sensitivity remains, and as a side bonus of an optic nerve injury from a few years ago, I can "see" something (the damaged spot of the nerve) even when my eyes are shut and I'm in complete darkness. This blob which I "see" disappears in deep meditative states. Similarly, these deep states of meditation will eliminate audio input as well, which is easier for anyone to detect.
+
+## Blue Bars: The New Distractions
+
+At this point, we can revisit _distraction_. Distraction is really the essence of meditation. Whether it's taxes, math problems, hunger, itching, or pain... our job as meditators is to accept the presence of a distraction and return our attention to our meditation object.
+
+However, once the pink bars have reduced far enough, once the mind is quiet enough, an entirely _new_ form of distraction emerges. This diagram highlights the first likely candidate for the New Distraction: thought.
+
+[ v2 slide 90 ]
+
+These "thoughts" are not normal thoughts in any sense of the word you are currently familiar. These "thoughts" are an entirely new form of brain activity caused by your constant prodding of the nervous system through Vipassana.
+
+What is meant by "prodding our nervous system" and what does this have to do with brain activity? Our second suspension of disblief was of the deep and intense connection between the brain the nervous system. Alternatively, we can think of the pair as the brain and the body. Alternatively, we can think of them as a single system.
+
+To think of the brain and body as one system is not incorrect but defeats the model we're drawing out at present. For the brain and nervous system to be "mutually recursive", they must be separate processe or entities. What is meant then by stating that the brain and nervous system are mutually recursive?
+
+This statement is meant operationally, not existentially. We do not mean to say that the brain could not live without the nervous system (or vice-versa) but that every event -- every operation -- occurring in the nervous system has a corresponding event in the brain, and so forth. This mutually recursive process will eventually wear itself out or when we get angry we would just get angrier and angrier for the rest of our lives. However, during the process of mututal recurision we can be feeling pain in a knee, to which our emotional response is "argh, I hate pain", which makes us angry, which clenches up our physical systems, which makes the pain worse, and so on.
+
+Vipassana is the process of unwinding the stack: If I can pay attention to my aching knee, remain calm and continue to observe it, slowly my body unclenches, the pain subsides a little, my emotional response is calmer, and so on.
+
+## Sidebar: Can we "hack" Vipassana?
+
+If Vipassana is hacking, is there an opportunity for meta-hacking? Can we hack the hacking process? Let's ask Martin Thompson. The following slide is from his 2013 talk "Performance Testing Java Applications" [8] and while I have no intention of ostricizing non-computer hackers, software was my career once upon a time and the example is appropriate.
+
+[ v2 slide 96 ]
+
+He suggests that any system we intend to observe should be observed through a 3rd party observer by dumping network traffic. For computer systems, this makes a great deal of sense.
+
+[ v2 slide 97 ]
+
+Unfortunately, human biology is not so keen on this setup. Even if we had the technology to tap into the interactions of the brain and nervous system (we don't), there is no way to observe the interactions of the brain and nervous system without immediately falling into the Matrix Paradox. How do I know the tool I used is trustworthy? How do I know the observations I made with my eyes are trustworthy? This is all once again external.
+
+It is possible to "jump out" of Vipassana momentarily to take stock of the effects of the meditation. Did my hearing just cut out? Did I just force my brain to become consciously aware of my normally-unconscious proprioception pertaining to my right arm? Did I just feel my cardiovascular system in exquisite detail or did I imagine it?
+
+I performed this exercise a great deal toward the end of my second 10-day course because I was quite confused about everything that I was experiencing. It framed my understanding but it did little for the practice itself. I don't recommend doing this. Particularly for your first course, try your hardest to follow the instructions precisely and give all of your energy to the moment-to-moment attention demanded of you. Otherwise you will find yourself spending 10 days thinking about meditation, rather than meditating.
+
+There will be plenty of time to discuss the meditation and the outcomes of the meditation on the 10th day when talking is permitted. Other meditators are likely to be the only ones who will quite comprehend the concepts you are trying to discuss.
+
+Honesty is inherently necessary to objectively observe anything -- but this is especially true for observing yourself. Because there is no way to gather empirical evidence about what is happening inside your brain and body, you must force this empiricism upon yourself. Thankfully, the practice of Vipassana (and the nature of your biology) is tuned toward empiricism. If you lie to yourself ("I'm going to see right through my bodily tissues directly to my spinal cord and dissolve my entire awareness of my body!") you will find that you aren't getting anywhere. If you take a course, you can see this for yourself at multiple levels. Even the tiniest lie you tell yourself about your actual experience will stop you dead in your tracks.
+
+## Blue Bars 2: The New-New Distractions
+
+Let us quickly revisit our third suspension of disbelief: "dissolution of the body is a thing." Neuroscience tells us some interesting things about the nature of our sense of self and how it relates to our body. From "Where Am I?" [7]:
+
+“The studies reported that people who had once been able-bodied and then became paralyzed felt… less. Less happy than able-bodied people, less sad than able-bodied people. Just less.”
+
+“Our _being_ is rooted in a body-state. If I were able to remove from your brain, the representation of your body, you would not know that you were you.”
+
+...which would seem in line with experiences described by mastered meditators of having "no I" or "no self" as their fundamental insightful discovery. It also seems necessary to project our experiences from one 10-day Vipassana course into the future, with respect to the _extent_ to which this practice can take us. If it were stated that we could explore the entirety of the nervous system and its relationship to the brain -- but not the gallbladder or spinal cord, those are off-limits -- we would have reason to believe that there is a portion of the body and/or nervous system which is exempt from the rules governing these interactions.
+
+Assuming we can explore to the very depths of our nervous system by repeatedly and systematically penetrating it with our attention, given the extent to which this observably occurs on a 10-day course, we can then examine "mutually-recursive consciousness I/O" in its totality. What occurs?
+
+This I/O feedback between the brain and body appears to create a _completely new kind of distraction_. I will attempt to highlight this in the following diagram:
+
+[ v2 slide 104 ]
+
+Here, all of the sense doors which we have quiesced return to life, as did "thought" before them. However, this new input (which remains a distraction... just a very sophisticated distraction) is unlike most of regular experience. The nearest approximation I can come up with would be the experience of taking saliva, an awful drug which is legally permitted in most countries because it is simply not that enjoyable. While I do not at all recommend smoking salvia, the Wikipedia article [9] is worth a glance. The to relevant items from the list of "immediate effects" are:
+
+* Past memories, such as revisiting places from childhood memory
+* Overlapping realities, such as the perception of being in several locations at once
+
+The effects of deep Vipassana meditation are akin to this, in the sense that one may experience, in its entirety, a completely different time or reality. That is where similarities end but the comparison may help those who have experience with hallucinogens.
+
+It is worth reiterating that the purpose of Vipassana is _not_ to experience altered mental states or its potentially hallucinogenic effects. New thought patterns and "new realities" are, again, simply distractions from the meditation itself. The meditation remains the systematic observation of the nervous system.
+
+
+# Examples
+
+While I would like to avoid descriptions of personal experiences, a few may help highlight the above description of new distracted states of mind.
+
+## The non-example: the resolution to paradox
+
+It would seem that one very common effect of Vipassana during deep meditation is to witness the resolution of paradox. A logical, mathematical, or linguistic paradox might emerge in the meditator's mind and just as quickly, it is resolved.
+
+These would appear to mirror Zen koan practice, where the paradox is presented to the meditator verbally, in advance. No such practice occurs in Vipassana. Paradoxes and their solutions appear to be intrinsic to the human makeup, somehow.
+
+## Holding a baby
+
+A friend once had a very salvia-like experience, feeling as though she was teleported to her friend's kitchen, holding her friend's 2-year-old while he cried. The experience was so raw, realistic, and unexpected that she actually opened her eyes and stood up in her meditation cell.
+
+## Writing a poem
+
+Often, in early stage meditation, a person will find him or herself distracted by an upcoming task: write this email, call this person, do this chore.
+
+I had a strangely parallel experience toward the end of my second 10-day course. My brain appeared to have written a poem: a visceral, all-encompassing work of art which touched my every sense and filled my mind. The temptation was not to read the poem (since "I" had written it) but to write the last line... to take credit for the poem and make it complete. Given that this genuinely felt like the most beautiful thing I had ever created, it was extremely difficult to fight the temptation to finish it and instead continue scanning my lower back with my awareness.
+
+## Time slowing down
+
+It will become quite clear halfway through a 10-day course that this effect of Vipassana is also quite universal, like paradox and resolution to paradox. The moment-to-moment awareness seems to take longer and longer as the course goes on and each one-hour meditation period can also seem to extend beyond reasonable experiential limit.
+
+However, this is not what I am referring to. The experience of time slowing down in very deep meditative states (which I have not experienced a great deal, granted) is that of time slowing down _a great deal_ ...10s or 100s of thousands of years pass before your awareness in a single meditation period.
+
+## Time speeding up
+
+The flip side of this, of course, is time speeding up. One sits down to meditate, takes a comfortable position, begins the process in earnest, and BOOM, the gong is going off. The meditation period is over.
+
+## Time going backward
+
+Much harder to describe than the experience of time stretching out or time compressing into a single instant is the experience of time moving backward. It would appear, to one's awareness, that cause and effect have been effectively reversed. Each moment takes you a moment (or many) backward in time, and the outcomes of your thoughts or feelings are the source material to their original causes, now future events.
+
+This experience is not necessarily isolated, either. One may experience this as a sort of "scrobbling" of time back and forth. This can be quite disorienting and, as distractions go, is extremely difficult to avoid while trying to keep your attention moving over your right nipple.
+
+But that's still the game.
+
+
+# Outcomes
+
+So, great. Vipassana can trick our bodies and brains to emerge an entirely new set of distractions from the practice of... Vipassana. Why, exactly, would anyone do this?
+
+There is a sketch in "Where Am I?" [7] about an arguing couple who must overcome their emotional temptation to get wound up by anger, ending in this wonderful quote:
+
+“Honey, don’t forget what the half-life is on the autonomic nervous system.”
+
+The autonomic nervous system is what causes the "winding stack" of thought and emotion described earlier. The autonomic nervous system is what makes -- and keeps -- you angry. And afraid. And sad. And anxious. And everything else.
+
+Vipassana is a systematic practice to calm the nervous system (and brain?) so that every sensory input can be analyzed rationally. You won't become a perfectly rational machine after one 10-day Vipassana course, but you are likely to come out with a much clearer head and a much better capacity for decision-making in general.
+
+I would describe the positive effects of nervous system meditations to live on a spectrum. On one end of the spectrum are the positive, rationality-enhancing qualities of calming one's nervous system with quiet attention. On the other end of the spectrum are the subtler qualities: Meditation seems to make a person more generous, more compassionate, more empathetic. Unlike the trick to healthy rationality, I do not have a pop neuroscience answer as to why this is the case.
+
+I do find the entire endeavour not just fascinating, but endlessly worthwhile. Vipassana is simultaneously the hardest thing I have ever done -- and the most valuable.
+
 
 
 [1] "The Newsroom":
@@ -246,3 +396,7 @@ As much as possible, we are forcing our attention to the sense of touch. In the 
     https://en.wikipedia.org/wiki/Simulation_hypothesis
 [7] RadioLab -- Where Am I?
     http://www.radiolab.org/story/91524-where-am-i/
+[8] Martin Thompson -- Performance Testing Java Applications
+    https://www.youtube.com/watch?v=1DuMvpwWHH4
+[9] Saliva dininorum
+    https://en.wikipedia.org/wiki/Salvia_divinorum
