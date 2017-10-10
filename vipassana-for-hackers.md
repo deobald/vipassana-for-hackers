@@ -90,6 +90,16 @@ Vipassana would appear to be "turtles all the way down" in precisely this sense.
 
 # Course Structure
 
+For those unfamiliar, I will briefly overview the rules of the course. During the course you are not permitted books, phones, talking, looking people in the eye, touching, making sounds, snacks, music, or writing implements.
+
+Put more succintly, your activities will include: Eat, sleep, poop, bath, meditate.
+
+That's it.
+
+Meditation will consume approximately 10 to 11 hours per day.
+
+
+
 [1] "The Newsroom":
     https://www.youtube.com/watch?v=2C6h-Yyx9Yk
 [2] Five Precepts:
