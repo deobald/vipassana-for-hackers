@@ -112,6 +112,8 @@ Before explaining the mechanics and outcomes of Vipassana, I must request that y
 
 ## 1. Meditation is a thing
 
+For the purposes of this document, understand "meditation" to mean a single point of awareness with unwavering focus. "Unwavering focus" means that we can hold sustained attention on this single point (whatever it may be) without getting distracted by thoughts of our taxes, what's for lunch, or that really persistent itch on our ear.
+
 What I mean by this is that mental exercises exist which can take consciousness beyond "flow", "calm", or "elated" states of mind caused by activities one might describe as "meditative" rather than "meditation". Biochemical responses to hallucinogens fall on the same side of the spectrum, though they may appear momentarily insightful.
 
 I have drawn my personal spectrum for sample activities below.
@@ -128,6 +130,106 @@ We all know the classic examples of connectivity between the brain and nervous s
 
 These examples all exist on a gross level, coarse-grained enough that we can identify them externally and even give them names like "butterflies". However, your nervous system is interacting with your brain at every conceivable level. No matter how small, you do not have a thought or emotion emerge in your concsciousness (or unconscious) without a physical sensation accompanying it. You do not feel physical sensation, consciously or subconsciously, without an accompanying thought or emotion.
 
+Unless you have tried a meditation system with the nervous system as its meditation object, you have almost undoubtedly not experienced this.
+
+## 3. Dissolution of the body is a thing
+
+This will be the most difficult of the three. "Dissolution of the body," though strange-sounding at first, does not fall into the categories where we would normally place magic, levitation, or ESP. The term simply refers to our capacity to see _through_ our entire body.
+
+As we investigate this concept, it seems increasingly reasonable in conjunction with points #1 and #2. If we can narrow our attention down to anything we can perceive and what we choose to perceive with our brain and nervous system in tandem is a narrow part of the body, surely if we sustain attention on that part for long enough we will start to see it clearly.
+
+Normally, our attention on our body is almost entirely external: my hands on this keyboard, the itch on my ear, my butt in this chair. I don't tend to spend a lot of energy focused on the sensations provided to my brain by my gallbladder or my stomach unless I have a painful gallstone or I am experiencing acute hunger. Physical sensations provided to our awareness by the nervous system for the internals of the body are largely hidden from us -- but they can be unearthed and explored.
+
+I should note here that in four courses I have not felt the precise shape of my gallbladder or stomach at any point. I have "seen" the shape of my bones in my fingers, shoulders, chest, and pelvis. I have witnessed the rush of blood squooshing through my cardiovascular system (near the surface) with terrifying clarity. I have enough anecdotale evidence to say that it appears this process does work and can be extended to our deepest internal organs and the spinal cord.
+
+
+# Virtual Reality and The Matrix Paradox
+
+The following section will require some visual assistance, for which I will use the same slides I used in the talk which corresponds to this paper.
+
+They look like this:
+
+[ v2 slide 50 ]
+
+This image is taken from a talk by Michael Abrash, Chief Scientist of the Oculus VR team, at a talk he gave at Facebook F8 in 2015 [5]. I'm using this slide because it's nicely laid out and because it is incorrect.
+
+Abrash discusses the nature of the "Matrix Paradox" [6] as simply the right neurons firing to simulate any particular environment. "How do we know we are not in the matrix?" The question is valid, but the diagram is way off. The following might be a slightly better model of reality:
+
+[ v2 slide 52 ]
+
+I'm going to forgive myself references to Buddhism here for a moment and bring in the Buddhist "6th Sense Door": The Mind. Even when all other senses are disabled, we still have our thoughts and emotions. I'm also going to bump The Mind up to Sense #7 and insert a whole cluster of other senses: proprioception, nocioception, hunger, and the like. Though some might describe these sense as physical "feeling", they are not a subset of "touch", as they correspond to very different activity in the brain. Touch is strinctly an external sense dealing with skin. These are _internal_ senses.
+
+A brain diagram describing The Matrix Paradox is complete when we map all of these senses to the brain. I have not, since I haven't named them all. Proprioception is clearly associated with the cerebellum. Nocioception is a bit more nuanced with regard to the brain's reception of thermal, mechanical, and chemical information -- and whether or not the activity is inbound, outbound, conscious, or unconscious. However, assuming all nervous system activity does have corresponding brain activity, one can theoretically map out the Matrix Paradox on the brain as Abrash has done. It is likely such a diagram would highlight all parts of the entire brain.
+
+On that note, I feel I should introduce an absolutely fantastic RadioLab episode ("Where Am I?" [7]) which addresses this topic of "other senses" from the perspectives brought by modern Neuroscience. With respect to lacking proprioception: “We have words like ‘deaf’ and ‘blind’. We do not have words for being deaf or blind to one’s own body.” In the Matrix Paradox, perhaps this is either a bug or a feature flag.
+
+Now that we have our diagram for visualizing the use of our senses, we can address them in terms of various altered mental states.
+
+# On Attention
+
+The funny thing about Vipassana is that you are doing it already... you're just terrible at it. Vipassana is the inspection of one's own nervous system with narrowly-focused attention but the precision of this focus is not prescribed by the instruction given for the technique. "As narrow as possible", perhaps, but in day to day life a normal person cannot possibly narrow her attention to the size of a fingertip. Your attention is, in part, already on your nervous system, with some degree of focus. To the extent that it is, you are doing Vipassana.
+
+If your attention is not directed at your nervous system, where is it? Let's look at three environmental examples which can help us highlight our senses and our awareness within them.
+
+## Example 1: A bustling restaurant
+
+[ v2 slide 57 ]
+
+...and a corresponding sense map something like this:
+
+[ v2 slide 58 ]
+
+Assuming we've just placed food in our mouths, our sense of taste is going off like crazy, we're hearing a lot of scattered sound around us, and we're also sufficiently distracted by most of our other senses. Note that we are probably paying very little attention to the internal senses.
+
+## Example 2: A sensory deprivation tank
+
+[ v2 slide 60 ]
+
+...with a corresponding sense map something like this:
+
+[ v2 slide 62 ]
+
+Here, the classic 5-sense model fails us, since sensory deprivation only deprives us of these 5 senses. The pods humans live in during The Matrix actually loosely resemble these, which is reason enough to believe that we are not in _that_ matrix. As anyone who has ever entered a sensory deprivation tank knows, it is not like being in a coma. The mind is still very active and it may actually help in causing someone to pay attention to their internal senses.
+
+## Example 3: An anechoic chamber
+
+[ v2 slide 64 ]
+
+...with a corresponding sense map something like this:
+
+[ v2 slide 65 ]
+
+The map for an anechoic chamber may seem surprising. However, just because the room you are in has a negative decible rating does not mean you cannot hear. In fact, in this environment, your sense of hearing is likely to be amplified -- and turned inward. You will hear your heart beating, your blood pumping, your digestive system sloshing around. The better the anechoic chamber at swalling sound, the more intense this experience is going to be.
+
+For this reason, the above anechoic chamber has a record of 45 minutes for the longest period anyone has sat inside it. As it turns out, hearing one's own bodily functions at deafening internal volumes is likely to cause someone to go a bit crazy, hence the highlighted bar for thought activity.
+
+The above three examples serve as templates with external input guiding one's understanding of what is happening neurologically.
+
+# Anapana Meditation
+
+The first 3.5 days of a 10-day Vipassana course are spend practicing "Anapana" (breath) meditation. This period is very important as it is time spent practicing acute, one-pointed attention. If we imagine our attention as a pink dot, the goal is the following clown effigy:
+
+[ v2 slide 69 ]
+
+If you have ever practiced a single-pointed meditation (particularly breath meditations) before, you know all too well how easily your mind can be distracted. Taxes, Mom's birthday, an upcoming meeting, a fun math problem, what's for lunch, the itch on my ear... anything can become a distraction because everything which is not "my breath" is by definition a distraction. And we are not accustomed to spending long stretches of time with unwavering, singular focus. We are especially unaccustomed to doing so with all of our attention focused on our breath.
+
+As you practice Anapana for over 30 hours, you will find your attention wandering less and less, while (paradoxically) the distractions become more and more interesting. The itch on your ear becomes an itch on your nose which seems to move with the breath. Your brain will spend less time worrying about taxes and more time trying to solve interesting math problems (if that's your thing).
+
+On the first day, your attention might look something like this:
+
+[ v2 slide 72 ]
+
+By the fourth day, your attention will often take a shape like this instead:
+
+[ v2 slide 73 ]
+
+If we revisit the notion that "meditation is a thing", we can see a specific example here in Anapana:
+
+[ v2 slide 75 ]
+
+As much as possible, we are forcing our attention to the sense of touch. In the above diagram, our attention is (realistically) not perfectly on a tiny spot under our nose. We are still likely to hear sounds around us on the 3rd day of the course, especially if the sound is monkeys clamboring over the roof of the meditation hall.
+
+
 
 
 [1] "The Newsroom":
@@ -138,3 +240,9 @@ These examples all exist on a gross level, coarse-grained enough that we can ide
     https://www.youtube.com/watch?v=mcbGbN8pFyk&list=PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu&index=2
 [4] Eric S. Raymond -- How To Become A Hacker
     http://www.catb.org/esr/faqs/hacker-howto.html
+[5] Michael Abrash -- Why Virtual Reality Will Matter to You
+    https://www.youtube.com/watch?v=UDu-cnXI8E8
+[6] Simulation Hypothesis
+    https://en.wikipedia.org/wiki/Simulation_hypothesis
+[7] RadioLab -- Where Am I?
+    http://www.radiolab.org/story/91524-where-am-i/
