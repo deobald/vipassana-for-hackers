@@ -1,4 +1,8 @@
 
+# Vipassana for Hackers
+
+
+
 # Target Audience
 
 Should you bother reading this paper? Not everyone associates themselves with the label "Hacker". It comes with a few well-known negative connotations so my first task is to quickly identify what is meant by "Hacker", since this paper is for these people.
@@ -78,7 +82,7 @@ The first metaphor is a better framework for explaining the difficulty of writin
 
 The hacker community has been on the verge of this exploration for quite some time. Pixar's acclaimed "Inside Out" attempts to explain the roots of emotion and consciousness in a visual way while permitting itself an indulgence of a tree-shaped Homunculus Fallacy. Combinatorial explosion aside, even one layer deep a child is likely to ask if Sadness has her own internal Sadness or her own internal Fear. Such an oversimplified model may help us discuss tantrums with our Kindergarten students but they don't get us anywhere in terms of explaining consciousness.
 
-Animated films are not meant to epitomize modern Psychology or thought exercises of contemporary philosophers on the problem of consciousness but there exists much tantilizing media targeted at adults as well. The easiest and most recent examples of this are no doubt the works of Douglas Hofstadter. "Gödel, Escher, Bach: An Eternal Golden Braid" captured the imaginations of the hacker community for an extended period of time, as the term "blogging" evolved from portmanteau to an accessible part-time career for stay-at-home parents. The term "strange loop", coined in this book, has since become a mild obsession of philosophical and artistic computer scientists, linguists, and mathematicians, even inspiring the namesake software conference held in St. Louis. Hofstadter's more cohesive "I Am a Strange Loop" tackles the problem of consciousness more succinctly. However, despite directing the reader to Zen at multiple points (Zen is relevant because the practice of Zazen, or Zen meditation, is a nervous-system-based meditation similar to Vipassana), these books do not invite the reader to explore these concepts directly. There is no hacking. A thorough read of GEB or IAaSL is akin to reading all four volumes of Knuth's "The Art of Computer Programming" without having ever touched a computer or to reading "The Joy of Cooking" cover to cover without having ever set foot inside a kitchen.
+Animated films are not meant to epitomize modern Psychology or thought exercises of contemporary philosophers on the problem of consciousness but there exists much tantilizing media targeted at adults as well. The easiest and most recent examples of this are no doubt the works of Douglas Hofstadter. "Gödel, Escher, Bach: An Eternal Golden Braid" captured the imaginations of the hacker community for an extended period of time, as the term "blogging" evolved from portmanteau to an accessible part-time career for stay-at-home parents. The term "strange loop", coined in this book, has since become a mild obsession of philosophical and artistic computer scientists, linguists, and mathematicians, even inspiring the namesake software conference held in St. Louis. Hofstadter's more cohesive "I Am a Strange Loop" tackles the problem of consciousness more succinctly. However, despite directing the reader to Zen at multiple points*, these books do not invite the reader to explore these concepts directly. There is no hacking. A thorough read of GEB or IAaSL is akin to reading all four volumes of Knuth's "The Art of Computer Programming" without having ever touched a computer or to reading "The Joy of Cooking" cover to cover without having ever set foot inside a kitchen.
 
 I will attempt to frame the self-exploration of nervous system meditations like Vipassana using one tool familiar to the Computer Science discipline: LISP. If you are neither a Computer Scientist nor a Linguist and have no interest in computer languages, feel free to skip to the next section.
 
@@ -87,6 +91,9 @@ Eric Raymond described the exercise of LISP mastery to be "profound enlightenmen
 Combined, these properties tend to blur the lines of compile time and run time, of code and data, of execution and interpretation. Decades ago, thanks to these "strange loop" properties of LISP, it was thought to herald the dawn of the Age of Artificial Intelligence. While that did not happen it left us with a fascinating building material: LISP appears to have no upper-bound. It is "turtles all the way up." LISP is _not_ "turtles all the way down", as some would describe it. Even if written on a LISP Machine, there are still paths of wires and electrons which need to be dealt with. These are not written in LISP.
 
 Vipassana would appear to be "turtles all the way down" in precisely this sense. Vipassana is the process of digging through your consciousness using consciousness itself. At no point do you reach the machine beneath the machine: "Aha! I found it! The Consciousness Machine. Now I can do away with the meditation and just read the manufacturer's open specification and I'm sorted." The machine at the bottom of your consciousness _is_ a strange loop. Having a look at this strange loop is a lot more fun than reading about it.
+
+* Zen is relevant because the practice of Zen meditation, or Zazen, is a nervous-system-based meditation similar to Vipassana. The reason I do not discuss Zazan in detail or compare it to Vipassana in this paper is because Zazen, in my experience, is not systematic. The subject of inspection -- the nervous system -- remains, but Zen teachers tend to avoid explicit instruction, leaving the student to explore on her own. The outcomes, therefore, appear similar but watered down.
+
 
 # Course Structure
 
@@ -97,6 +104,29 @@ Put more succintly, your activities will include: Eat, sleep, poop, bath, medita
 That's it.
 
 Meditation will consume approximately 10 to 11 hours per day.
+
+
+# Suspending Disbelief
+
+Before explaining the mechanics and outcomes of Vipassana, I must request that you suspend disbelief about three items for the duration of the paper.
+
+## 1. Meditation is a thing
+
+What I mean by this is that mental exercises exist which can take consciousness beyond "flow", "calm", or "elated" states of mind caused by activities one might describe as "meditative" rather than "meditation". Biochemical responses to hallucinogens fall on the same side of the spectrum, though they may appear momentarily insightful.
+
+I have drawn my personal spectrum for sample activities below.
+
+[ spectrum graphic ]
+
+For which we will be discussing only these practices:
+
+[ narrowed spectrum graphic ]
+
+## 2. Your brain and nervous system are tied together in a feedback loop faster and tighter than you could ever believe without experiencing it directly
+
+We all know the classic examples of connectivity between the brain and nervous system: A child touches a hot stove and retracts her hand. A pubescent boy sees a boy or girl he is attracted to and feels "butterflies in his stomach" so intense he vomits. Despite healthy diet and exercise, a high-strung individual suffers from stomach ulcers.
+
+These examples all exist on a gross level, coarse-grained enough that we can identify them externally and even give them names like "butterflies". However, your nervous system is interacting with your brain at every conceivable level. No matter how small, you do not have a thought or emotion emerge in your concsciousness (or unconscious) without a physical sensation accompanying it. You do not feel physical sensation, consciously or subconsciously, without an accompanying thought or emotion.
 
 
 
