@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.24)  7 NOV 2017 20:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.24)  9 NOV 2017 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,12 +234,6 @@ n already used, duplicate ignored
                    \relax 
 l.46 
       [1]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -248,6 +242,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 
 [2]
+
+LaTeX Warning: Citation `fiveprecepts' on page 3 undefined on input line 91.
+
 Missing character: There is no ‡ in font cmr10!
 Missing character: There is no § in font cmr10!
 Missing character: There is no ∏ in font cmr10!
@@ -299,237 +296,93 @@ Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [5] [6] <meditation-spectrum-1.jpeg, id=43, 1027.84pt x 770.88pt>
-File: meditation-spectrum-1.jpeg Graphic file (type jpg)
+ [5] [6]
+<images/meditation-spectrum-1.jpeg, id=50, 1027.84pt x 770.88pt>
+File: images/meditation-spectrum-1.jpeg Graphic file (type jpg)
 
-<use meditation-spectrum-1.jpeg>
-Package pdftex.def Info: meditation-spectrum-1.jpeg used on input line 165.
-(pdftex.def)             Requested size: 345.0pt x 258.75514pt.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [7 <./meditation-spectrum-1.jpeg>]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
- [8]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
+<use images/meditation-spectrum-1.jpeg>
+Package pdftex.def Info: images/meditation-spectrum-1.jpeg used on input line 1
+67.
+(pdftex.def)             Requested size: 312.9803pt x 234.73576pt.
+ [7 <./images/meditation-spectrum-1.jpeg>] <images/meditation-spectrum-3.jpeg, 
+id=56, 1027.84pt x 770.88pt>
+File: images/meditation-spectrum-3.jpeg Graphic file (type jpg)
 
-[9]
+<use images/meditation-spectrum-3.jpeg>
+Package pdftex.def Info: images/meditation-spectrum-3.jpeg used on input line 1
+76.
+(pdftex.def)             Requested size: 312.9803pt x 234.73576pt.
+ [8 <./images/meditation-spectrum-3.jpeg>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
+Missing character: There is no î in font cmr10!
+ <images/sensation-spectrum.jpeg, id=62, 1018.80624pt x 462.72874pt>
+File: images/sensation-spectrum.jpeg Graphic file (type jpg)
+
+<use images/sensation-spectrum.jpeg>
+Package pdftex.def Info: images/sensation-spectrum.jpeg used on input line 212.
+
+(pdftex.def)             Requested size: 345.0pt x 156.69728pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [10]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ¶ in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [11]
+Missing character: There is no ô in font cmr10!
+[9] [10 <./images/sensation-spectrum.jpeg>]
+<images/michael-abrash-senses.png, id=72, 855.195pt x 472.76625pt>
+File: images/michael-abrash-senses.png Graphic file (type png)
+
+<use images/michael-abrash-senses.png>
+Package pdftex.def Info: images/michael-abrash-senses.png used on input line 23
+8.
+(pdftex.def)             Requested size: 345.0pt x 190.71904pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
+Missing character: There is no î in font cmr10!
+ [11 <./images/michael-abrash-senses.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
+Missing character: There is no î in font cmr10!
  [12]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ [13]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
+ [14]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [13] [14]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
+ [15] [16]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [15]
+ [17]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -540,13 +393,13 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
 
-Overfull \hbox (42.1119pt too wide) in paragraph at lines 391--393
+Overfull \hbox (42.1119pt too wide) in paragraph at lines 422--424
 []\OT1/cmr/m/n/10 My write-up of my first 10-Day Vipas-sana course: http://blog
 .deobald.ca/2013/02/an-
  []
 
 
-Overfull \hbox (99.00096pt too wide) in paragraph at lines 394--396
+Overfull \hbox (99.00096pt too wide) in paragraph at lines 425--427
 []\OT1/cmr/m/n/10 My com-par-i-son of med-i-ta-tion tech-niques and var-i-ous d
 rugs: http://blog.deobald.ca/2015/01/drugs-
  []
@@ -554,75 +407,91 @@ rugs: http://blog.deobald.ca/2015/01/drugs-
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
-[16]
-Overfull \hbox (22.09543pt too wide) in paragraph at lines 416--440
-\OT1/cmr/m/n/10 Goenka -- Ex-pe-ri-ence the Truth []$\OT1/cmtt/m/n/10 https : /
- / www . youtube . com / watch ? v = mcbGbN8pFyk &
+[18] [19]
+Underfull \hbox (badness 5050) in paragraph at lines 451--455
+[]\OT1/cmr/m/n/10 Aaron Sorkin. []$\OT1/cmtt/m/n/10 https : / / www . youtube .
+ com / watch ? v = 2C6h-[]Yyx9Yk$[] \OT1/cmr/m/it/10 The
  []
 
 
-Overfull \hbox (0.72072pt too wide) in paragraph at lines 416--440
-\OT1/cmr/m/n/10 back in restor-ing brain func-tion: []$\OT1/cmtt/m/n/10 https :
- / / academic . oup . com / brain / article /
+Underfull \hbox (badness 3884) in paragraph at lines 457--461
+[]\OT1/cmr/m/n/10 S.N. Goenka. []$\OT1/cmtt/m/n/10 https : / / www . youtube . 
+com / watch ? v = mcbGbN8pFyk & list =
  []
 
 
-Overfull \hbox (61.83072pt too wide) in paragraph at lines 416--440
-\OT1/cmtt/m/n/10 132 / 7 / 1693 / 328686$[] \OT1/cmr/m/n/10 [8] Pro-pri-o-cep-t
-ion: []$\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Propriocepti
-on$[]
+Underfull \hbox (badness 1400) in paragraph at lines 457--461
+\OT1/cmtt/m/n/10 PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu & index = 2$[] \OT1/cmr/m/i
+t/10 Ex-pe-ri-ence the Truth\OT1/cmr/m/n/10 .
  []
 
 
-Overfull \hbox (4.63708pt too wide) in paragraph at lines 416--440
-[]$\OT1/cmtt/m/n/10 https : / / www . ncbi . nlm . nih . gov / pubmed / 1829274
-7$[] \OT1/cmr/m/n/10 [11] Ra-di-o-Lab -- Where Am
+Underfull \hbox (badness 10000) in paragraph at lines 473--476
+[][]$\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Simulation _ hy
+pothesis$[] \OT1/cmr/m/it/10 Sim-u-la-tion
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--487
+[][]$\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Proprioception$
+[] \OT1/cmr/m/it/10 Pro-pri-o-cep-tion\OT1/cmr/m/n/10 .
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+
+Underfull \hbox (badness 2512) in paragraph at lines 500--504
+[]\OT1/cmr/m/n/10 Jad Abum-rad, Robert Krul-wich. []$\OT1/cmtt/m/n/10 http : / 
+/ www . radiolab . org / story /
  []
 
 
-Overfull \hbox (1.33136pt too wide) in paragraph at lines 416--440
-\OT1/cmr/m/n/10 I? []$\OT1/cmtt/m/n/10 http : / / www . radiolab . org / story 
-/ 91524-[]where-[]am-[]i/$[] \OT1/cmr/m/n/10 [12] Mar-tin Thomp-
+Underfull \hbox (badness 5622) in paragraph at lines 506--510
+[]\OT1/cmr/m/n/10 Martin Thomp-son. []$\OT1/cmtt/m/n/10 https : / / www . youtu
+be . com / watch ? v = 1DuMvpwWHH4$[]
  []
 
-
-Overfull \hbox (6.33229pt too wide) in paragraph at lines 416--440
-\OT1/cmr/m/n/10 son -- Per-for-mance Test-ing Java Ap-pli-ca-tions []$\OT1/cmtt
-/m/n/10 https : / / www . youtube . com / watch ?
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 444.
-[17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 444.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
+[20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
  (./vipassana-for-hackers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 444.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 444.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
 Package rerunfilecheck Info: File `vipassana-for-hackers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 444.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
  ) 
 Here is how much of TeX's memory you used:
- 5088 strings out of 494447
- 76341 string characters out of 6166765
- 156499 words of memory out of 5000000
- 8391 multiletter control sequences out of 15000+600000
- 7786 words of font info for 28 fonts, out of 8000000 for 9000
+ 5142 strings out of 494447
+ 77453 string characters out of 6166765
+ 156054 words of memory out of 5000000
+ 8420 multiletter control sequences out of 15000+600000
+ 8440 words of font info for 30 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  29i,8n,23p,1761b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr17.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr6.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr7.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr8.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on vipassana-for-hackers.pdf (18 pages, 456635 bytes).
+0.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr6.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016basic/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on vipassana-for-hackers.pdf (21 pages, 1549102 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

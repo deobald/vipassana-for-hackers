@@ -37,7 +37,7 @@ What may be even more fascinating, for the hacker, is the fact that by practicin
 I have written this paper because, thus far, I have found the written and recorded material on the subject of Vipassana to fall into three broad categories:
 
 Well-meaning Neuroscience papers which completely miss the mechanics of nervous-system-based meditation techniques and their core outcomes.
-Descriptions of a ``silent meditation retreat,'' usually given by someone who has not attended a course. [1]
+Descriptions of a ``silent meditation retreat,'' usually given by someone who has not attended a course. \cite{thenewsroom}
 Descriptions of Vipassana from an individual and subjective perspective, usually given by someone who has attended one course. (``Oh my god! It was sooooo intense!'')
 
 By using phrases like ``disassemble, examine, and explore ourselves'' I'm at the risk of sounding spiritual. This is the opposite of my intention. My intention is to pique curiosity in fellow hackers by explaining the biological mechanics of Vipassana, to the best of my ability and as I understand them. To curb the impression that this paper falls into the category of New Age Philosophy, I would like to take a moment to address what this paper is not.
@@ -63,7 +63,7 @@ This is not a dissection of the administrative details of the course, though I w
 
 This is not a description of past experiences, though I will use a few to highlight core effects of the technique.
 
-This is not a comparison with other meditation techniques, though I will address other techniques for context. It is worth noting that there are a few meditation techniques labelled “Vipassana” and this paper deals specifically with Vipassana as taught by S.N. Goenka.
+This is not a comparison with other meditation techniques, though I will address other techniques for context. It is worth noting that there are a few meditation techniques labelled ``Vipassana'' and this paper deals specifically with Vipassana as taught by S.N. Goenka.
 
 This is not an examination of Buddhist Philosophy and will exclude commentary or mention of the following concepts:
 
@@ -88,7 +88,7 @@ These last two bullet points are subject to one exception each.
   \LARGE{Morality's Exception: Lying}
 \end{center}
 
-A 10-day Vipassana course requires that all students take the standard ``5 Precepts'' [2], as per Theravada. I do not recommend getting drunk, raping and murdering your fellow students, and stealing their belongings. However, the four precepts which forbid those behaviours are quite clearly external, making them components of course administration and therefore not applicable to this document.
+A 10-day Vipassana course requires that all students take the standard ``5 Precepts'' \cite{fiveprecepts}, as per Theravada. I do not recommend getting drunk, raping and murdering your fellow students, and stealing their belongings. However, the four precepts which forbid those behaviours are quite clearly external, making them components of course administration and therefore not applicable to this document.
 
 Lying, however, is perhaps least interesting in its external form. As an educated adult, it is difficult to say anything at all without lying to some small degree. As one begins to systematically observe the nervous system, which is the basic mechanic of Vipassana, one finds that the brain and nervous system are acutely aware of even the tiniest untruth. If I tell myself I am feeling something which I am not (``my body is exploding into a billion tiny particles! my muscles are raging rivers of lava inside my body!'') the process of empirical and objective observation ends, and the process stops.
 
@@ -109,7 +109,7 @@ Here, we might choose a more specific term from Psychology: habits. Sankharas, a
   \Huge{A Finger Pointing at the Moon}
 \end{center}
 
-The fundamental difficulty in any description of Vipassana is this: It is impossible to convey a description of Vipassana in terms known to someone who has not experienced it. During a Vipassana course this paradox is addressed using two metaphors: First, a story of a sighted brother explaining the concept of ``white'' to his blind brother [3]. Second, the classic Indian story of blind men each describing an elephant and each producing a partial truth.
+The fundamental difficulty in any description of Vipassana is this: It is impossible to convey a description of Vipassana in terms known to someone who has not experienced it. During a Vipassana course this paradox is addressed using two metaphors: First, a story of a sighted brother explaining the concept of ``white'' to his blind brother. \cite{experiencethetruth} Second, the classic Indian story of blind men each describing an elephant and each producing a partial truth.
 
 The first metaphor is a better framework for explaining the difficulty of writing about nervous system meditations. It is fundamentally impossible to express the experience of observing ``whiteness'' to an individual who is blind from birth. This person requires sight to understand. Similarly, it is fundamentally impossible to describe the effects of a nervous system meditation which alters perceptions and the interactions of the nervous system itself, since the nervous system (including the brain) ultimately form our entire experience.
 
@@ -123,7 +123,7 @@ The hacker community has been on the verge of this exploration for quite some ti
 
 I will attempt to frame the self-exploration of nervous system meditations like Vipassana using one tool familiar to the Computer Science discipline: LISP. If you are neither a Computer Scientist nor a Linguist and have no interest in computer languages, feel free to skip to the next section.
 
-Eric Raymond described the exercise of LISP mastery to be ``profound enlightenment'' [4] and while we can probably agree to ignore the hyperbole, there is something to be said about a language which begins as a calculus and nearly manages to escape formal grammar entirely. LISP has some very interesting properties: Homoiconicity, metaprogramming, self-mutation and self-replication, recursion and trampolining, and — in the case of modern LISPs and other languages with strong concurrency models — hardened notions of immutability and the reification of time.
+Eric Raymond described the exercise of LISP mastery to be ``profound enlightenment'' \cite{hackerhowto} and while we can probably agree to ignore the hyperbole, there is something to be said about a language which begins as a calculus and nearly manages to escape formal grammar entirely. LISP has some very interesting properties: Homoiconicity, metaprogramming, self-mutation and self-replication, recursion and trampolining, and — in the case of modern LISPs and other languages with strong concurrency models — hardened notions of immutability and the reification of time.
 
 Combined, these properties tend to blur the lines of compile time and run time, of code and data, of execution and interpretation. Decades ago, thanks to these ``strange loop'' properties of LISP, it was thought to herald the dawn of the Age of Artificial Intelligence. While that did not happen it left us with a fascinating building material: LISP appears to have no upper-bound. It is ``turtles all the way up.'' LISP is not ``turtles all the way down'', as some would describe it. Even if written on a LISP Machine, there are still paths of wires and electrons which need to be dealt with. These are not written in LISP.
 
@@ -151,6 +151,7 @@ Meditation will consume approximately 10 to 11 hours per day.
 
 Before explaining the mechanics and outcomes of Vipassana, I must request that you suspend disbelief about three items for the duration of the paper.
 
+\vspace{1cm}
 \begin{center}
   \LARGE{1. Meditation is a thing}
 \end{center}
@@ -162,18 +163,28 @@ What I mean by this is that mental exercises exist which can take consciousness 
 I have drawn my personal spectrum for sample activities below.
 
 \begin{figure}[h]
-  \includegraphics[width=\linewidth]{meditation-spectrum-1.jpeg}
-  \caption{Sample meditation spectrum.}
-  \label{fig:meditation-spectrum}
+  \centering
+  \includegraphics[width=11cm]{images/meditation-spectrum-1.jpeg}
+  \caption{Sample meditation/meditative spectrum.}
+  \label{fig:meditation-spectrum-1}
 \end{figure}
 
-For the purposes of this paper, we will keep all notions of “mindfulness” in the “meditative” camp, on the right. Mindfulness is not meditation. This paper will be discussing only two practices from this list: Anapana and Vipassana. An illustrated definition of “awareness” and “attention” follows, in the section entitled “On Attention”.
+For the purposes of this paper, we will keep all notions of ``mindfulness'' in the ``meditative'' camp, on the right. Mindfulness is not meditation. This paper will be discussing only two practices from this list: Anapana and Vipassana. An illustrated definition of ``awareness'' and ``attention'' follows, in the section entitled ``On Attention''.
 
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=11cm]{images/meditation-spectrum-3.jpeg}
+  \caption{Sample meditation spectrum.}
+  \label{fig:meditation-spectrum-3}
+\end{figure}
 
+\vspace{1cm}
+\begin{center}
+  \LARGE{2. Your brain and nervous system have}\\
+  \LARGE{a tight feedback loop}
+\end{center}
 
-2. Your brain and nervous system have a tight feedback loop
-
-When we say “tight feedback loop”, this means the brain and nervous system are tied together in a feedback loop faster and tighter than you could ever imagine without experiencing it directly.
+When we say ``tight feedback loop'', this means the brain and nervous system are tied together in a feedback loop faster and tighter than you could ever imagine without experiencing it directly.
 
 We all know the classic examples of connectivity between the brain and nervous system: A child touches a hot stove and retracts her hand. A pubescent boy sees a boy or girl he is attracted to and feels ``butterflies in his stomach'' so intense he vomits. Despite healthy diet and exercise, a high-strung individual suffers from stomach ulcers.
 
@@ -181,8 +192,10 @@ These examples all exist on a gross level, coarse-grained enough that we can ide
 
 Unless you have tried a meditation system with the nervous system as its meditation object, you have almost undoubtedly not experienced this.
 
-3. Dissolution of the body
-is a thing
+\vspace{1cm}
+\begin{center}
+  \LARGE{3. Dissolution of the body is a thing}
+\end{center}
 
 This will be the most difficult of the three. ``Dissolution of the body,'' though strange-sounding at first, does not fall into the categories where we would normally place magic, levitation, or ESP. The term simply refers to our capacity to see through our entire body.
 
@@ -192,38 +205,56 @@ Normally, our attention on our body is almost entirely external: my hands on thi
 
 I should note here that in four courses I have not felt the precise shape of my gallbladder or stomach at any point. I have ``seen'' the shape of my bones in my fingers, shoulders, chest, and pelvis. I have witnessed the rush of blood squooshing through my cardiovascular system (near the surface) with terrifying clarity. I have enough anecdotal evidence to say that it appears this process does work and can be extended to our deepest internal organs and the spinal cord.
 
-To help visualize what I mean, a sample spectrum of sensations from the gross or obvious to the curious and subtle might look like this:
+To help visualize what I mean, a sample spectrum of sensations from the gross or obvious to the curious and subtle might look like the figure on the following page.
 
-As the field of sensation progresses to the left, the sensations felt become increasingly difficult to describe. “Surreal hot / cold” refers to sensations of temperature we wouldn’t normally consider possible: our muscles either on fire or freezing solid. “Spatial distortion” refers to complete alterations of spacial presence — the partial or complete replacement of one’s normal sense of proprioception. This may include reorientation in space (“I was upside-down!”) or the feeling that one is gigantic or tiny or that any one body part has one of these or other distorted qualities.
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/sensation-spectrum.jpeg}
+  \caption{Sample sensation spectrum.}
+  \label{fig:sensation-spectrum}
+\end{figure}
 
-“Throbbing” refers to thick, heavy, slower vibrations; these are often felt rhythmically and this rhythm accelerates until the sensation is described as a “vibration”. Beyond vibration is the “invisible”, where a particular body part is no longer seen and a deeper part of the body is experienced directly. The first such example in most cases tends to be the skin, since the external surface of the body is the first part of the nervous system the course instructions ask the meditator to focus on. Beyond this the meditator may find muscle tissue, bones, the cardiovascular system, or something else entirely. Usually by the point in the course when a meditator has dissolved her own skin to her attention the sensations become extremely difficult to identify and label so “something else entirely” is likely to be the most common case.
+As the field of sensation progresses to the left, the sensations felt become increasingly difficult to describe. ``Surreal hot / cold'' refers to sensations of temperature we wouldn’t normally consider possible: our muscles either on fire or freezing solid. ``Spatial distortion'' refers to complete alterations of spacial presence — the partial or complete replacement of one’s normal sense of proprioception. This may include reorientation in space (``I was upside-down!'') or the feeling that one is gigantic or tiny or that any one body part has one of these or other distorted qualities.
 
-The sample spectrum above is missing many, many sensations. I also feel it necessary to call out that the spectrum is not serial; although I have felt “vibrations” and seen deeper than skin level, I have certainly not experienced all the sensations possible in the spectrum. However, the diagram hopefully provides a reference point for the type of readily-accessible sensations which Vipassana begins with (on the right) and the types of sensations (or absence of sensation) which will convince a person that complete dissolution of the body not only possible but an entirely natural process.
+``Throbbing'' refers to thick, heavy, slower vibrations; these are often felt rhythmically and this rhythm accelerates until the sensation is described as a ``vibration''. Beyond vibration is the ``invisible'', where a particular body part is no longer seen and a deeper part of the body is experienced directly. The first such example in most cases tends to be the skin, since the external surface of the body is the first part of the nervous system the course instructions ask the meditator to focus on. Beyond this the meditator may find muscle tissue, bones, the cardiovascular system, or something else entirely. Usually by the point in the course when a meditator has dissolved her own skin to her attention the sensations become extremely difficult to identify and label so ``something else entirely'' is likely to be the most common case.
 
-Virtual Reality
-and
-The Matrix Paradox
+The sample spectrum above is missing many, many sensations. I also feel it necessary to call out that the spectrum is not serial; although I have felt ``vibrations'' and seen deeper than skin level, I have certainly not experienced all the sensations possible in the spectrum. However, the diagram hopefully provides a reference point for the type of readily-accessible sensations which Vipassana begins with (on the right) and the types of sensations (or absence of sensation) which will convince a person that complete dissolution of the body not only possible but an entirely natural process.
 
+
+\pagebreak
+
+\begin{center}
+  \Huge{Virtual Reality}\\
+  \Huge{and}\\
+  \Huge{The Matrix Paradox}
+\end{center}
 
 The following section will require some visual assistance, for which I will use the same slides I used in the talk which corresponds to this paper.
 
 They look like this:
 
-This image is taken from a talk by Michael Abrash, Chief Scientist of the Oculus VR team, at a talk he gave at Facebook F8 in 2015 [5]. I'm using this slide because it's nicely laid out and because it is incomplete.
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/michael-abrash-senses.png}
+  \caption{Traditional 5-sense brain mapping.}
+  \label{fig:michael-abrash-senses}
+\end{figure}
 
-Abrash discusses the nature of the ``Matrix Paradox'' [6] as simply the right neurons firing to simulate any particular environment. ``How do we know we are not in the matrix?'' The question is valid, but the diagram is missing a great deal of sensory input. The following might be a slightly better model of reality:
+This image is taken from a talk by Michael Abrash, Chief Scientist of the Oculus VR team, at a talk he gave at the Facebook F8 Summit in 2015. \cite{abrashvr} I'm using this slide because it's nicely laid out and because it is incomplete.
 
-Though a classic sense diagram such as Mr. Abrash’s might describe proprioception [7, 8], nocioception [9], and hunger [10] as physical ``feeling'', they are definitively not a subset of ``touch'', as they correspond to entirely different activity in the brain. Touch is strictly an external sense dealing with skin. These are internal senses.
+Abrash discusses the nature of the ``Matrix Paradox'' \cite{simulationhypothesis} as simply the right neurons firing to simulate any particular environment. ``How do we know we are not in the matrix?'' The question is valid, but the diagram is missing a great deal of sensory input. The following might be a slightly better model of reality:
+
+Though a classic sense diagram such as Mr. Abrash’s might describe proprioception \cite{ramachandranbrainfunction, proprioception}, nocioception \cite{nocioception}, and hunger \cite{fmrihunger} as physical ``feeling'', they are definitively not a subset of ``touch'', as they correspond to entirely different activity in the brain. Touch is strictly an external sense dealing with skin. These are internal senses.
 
 A brain diagram describing The Matrix Paradox is complete only when we map all senses to the brain. I have not, since I haven't named them all. In fact, neurobiology does not yet have names for all sensory input, making such an exercise exceedingly difficult. Proprioception is clearly associated with the cerebellum and hunger is clearly associated with the hypothalamus. Nocioception, however, is a bit more nuanced with regard to the brain's reception of thermal, mechanical, and chemical information — and whether or not the activity is inbound, outbound, conscious, or unconscious. However, assuming all nervous system activity does have corresponding brain activity, one could theoretically map out the Matrix Paradox on the brain as Abrash has started. It seems likely such a diagram would highlight all parts of the entire brain.
 
-On that note, I feel I should introduce an absolutely fantastic RadioLab episode (``Where Am I?'' [11]) which addresses this topic of ``other senses'' from the perspectives brought by modern Neuroscience. On the topic of lacking proprioception: “We have words like ‘deaf’ and ‘blind’. We do not have words for being deaf or blind to one’s own body.” In the Matrix, perhaps this is either a bug or a feature flag.
+On that note, I feel I should introduce an absolutely fantastic RadioLab episode (``Where Am I?'' \cite{whereami}) which addresses this topic of ``other senses'' from the perspectives brought by modern Neuroscience. On the topic of lacking proprioception: ``We have words like `deaf' and `blind'. We do not have words for being deaf or blind to one's own body.'' In the Matrix, perhaps this is either a bug or a feature flag.
 
-Now that we have our diagram for visualizing the use of our senses, we can address them in terms of various altered mental states. Before we get there, however, we will try to come up with a meaningful visual definition of “attention” or “awareness” with respect to our senses.
+Now that we have our diagram for visualizing the use of our senses, we can address them in terms of various altered mental states. Before we get there, however, we will try to come up with a meaningful visual definition of ``attention'' or ``awareness'' with respect to our senses.
 
 On Attention
 
-The funny thing about Vipassana is that you are doing it already... you're just terrible at it. Vipassana is the inspection of one's own nervous system with narrowly-focused attention but the precision of this focus is not prescribed by the instruction given for the technique. “As narrow as possible”, perhaps, but in day to day life a normal person cannot possibly narrow her attention to the size of a fingertip. Your attention is, in part, already on your nervous system, with some degree of focus. To the extent that it is, you are doing Vipassana.
+The funny thing about Vipassana is that you are doing it already... you're just terrible at it. Vipassana is the inspection of one's own nervous system with narrowly-focused attention but the precision of this focus is not prescribed by the instruction given for the technique. ``As narrow as possible'', perhaps, but in day to day life a normal person cannot possibly narrow her attention to the size of a fingertip. Your attention is, in part, already on your nervous system, with some degree of focus. To the extent that it is, you are doing Vipassana.
 
 If your attention is not directed at your nervous system, where is it? Let's look at three environmental examples which can help us highlight our senses and our awareness within them.
 
@@ -259,7 +290,7 @@ If you have ever practiced a single-pointed meditation (particularly breath medi
 As you practice Anapana for over 30 hours, you will find your attention wandering less and less, while (paradoxically) the distractions become more and more interesting. The itch on your ear becomes an itch on your nose which seems to move with the breath. Your brain will spend less time worrying about taxes and more time trying to solve interesting math problems (if that's your thing).
 
 On the first day, your attention might look something like this:
-…where the wavy pink cloud represents any attention spent on any part of the body other than the nostrils or spent “outside” the body on thoughts and emotions. By the fourth day, your attention will often take a shape like this instead:
+…where the wavy pink cloud represents any attention spent on any part of the body other than the nostrils or spent ``outside'' the body on thoughts and emotions. By the fourth day, your attention will often take a shape like this instead:
 
 
 
@@ -292,7 +323,7 @@ I should note that I have never successfully penetrated my muscles or inner tiss
 As a Canadian who spent little (if any) of my childhood sitting cross-legged on the floor, the following diagram roughly summarizes most of my meditation experiences:
 ...where the purple dots are intense pain and the pink dot continues to be my awareness. At the peak of my meditation practice toward the end of a course, I would find that if my attention were somewhere away (say, my neck) from the painful area of my body (say, my knees), I may not feel any pain at all. As I moved my attention around, the pain in my knees would come back as I approached them, but every time I could sustain focus on another part of my body, the pain would appear to decrease with every return visit to my knees. If I can remain calm and focused while away from my knees, my knees' pain seems to take care of itself. If I can remain calm and focused while my attention moves across my knees, the situation continues to improve.
 
-If you can’t feel pain in your knees despite the fact that the pain is “real”, you have effectively eliminated (some) sensory input. This is possible for all sensory input. The 5 classic sense-doors will quite clearly shut down in deep meditative states. Just because your eyes are closed does not make you blind. Light sensitivity remains, and as a side bonus of an optic nerve injury from a few years ago, I can ``see'' something (the damaged spot of the nerve) even when my eyes are shut and I'm in complete darkness. This blob which I ``see'' disappears in deep meditative states. Similarly, these deep states of meditation will eliminate audio input as well, which is easier for anyone to detect.
+If you can’t feel pain in your knees despite the fact that the pain is ``real'', you have effectively eliminated (some) sensory input. This is possible for all sensory input. The 5 classic sense-doors will quite clearly shut down in deep meditative states. Just because your eyes are closed does not make you blind. Light sensitivity remains, and as a side bonus of an optic nerve injury from a few years ago, I can ``see'' something (the damaged spot of the nerve) even when my eyes are shut and I'm in complete darkness. This blob which I ``see'' disappears in deep meditative states. Similarly, these deep states of meditation will eliminate audio input as well, which is easier for anyone to detect.
 Blue Bars:
 The New Distractions
 
@@ -300,13 +331,13 @@ At this point, we can revisit distraction. Distraction is really the essence of 
 
 However, once the pink bars have reduced far enough, once the mind is quiet enough, an entirely new form of distraction emerges. This diagram highlights the first likely candidate for the New Distraction: thought.
 
-These ``thoughts'' are not normal thoughts in any sense of the word you are currently familiar. These ``thoughts'' are an entirely new form of brain activity caused by your constant prodding of the nervous system through Vipassana. Everything in blue, unfortunately, falls into the “explaining the concept of ‘white’ to a birth-blind man” category of unexplainable sensory input.
+These ``thoughts'' are not normal thoughts in any sense of the word you are currently familiar. These ``thoughts'' are an entirely new form of brain activity caused by your constant prodding of the nervous system through Vipassana. Everything in blue, unfortunately, falls into the ``explaining the concept of `white' to a birth-blind man'' category of unexplainable sensory input.
 
 What is meant by ``prodding our nervous system'' and what does this have to do with brain activity? Our second suspension of disbelief was of the deep and intense connection between the brain the nervous system. Alternatively, we can think of the pair as the brain and the body. Alternatively again, we can think of them as a single system.
 
 To think of the brain and body as one system is not incorrect but defeats the model we're drawing out at present. For the brain and nervous system to be ``mutually recursive'', they must be separate processes or entities. What is meant then by stating that the brain and nervous system are mutually recursive?
 
-This statement is meant operationally, not existentially. We do not mean to say that the brain could not live without the nervous system (or vice-versa) but that every event — every operation — occurring in the nervous system has a corresponding event in the brain, and so forth. This mutually recursive process will eventually wear itself out. If it did not, the advent of slight anger would mean we would, from that moment onward, just get angrier and angrier for the rest of our lives. However, during the process of mutual recursion we can be feeling pain in a knee, to which our emotional response is “argh, I hate pain”, which makes us angry, which clenches up our physical systems, which makes the pain worse, and so on.
+This statement is meant operationally, not existentially. We do not mean to say that the brain could not live without the nervous system (or vice-versa) but that every event — every operation — occurring in the nervous system has a corresponding event in the brain, and so forth. This mutually recursive process will eventually wear itself out. If it did not, the advent of slight anger would mean we would, from that moment onward, just get angrier and angrier for the rest of our lives. However, during the process of mutual recursion we can be feeling pain in a knee, to which our emotional response is ``argh, I hate pain'', which makes us angry, which clenches up our physical systems, which makes the pain worse, and so on.
 
 Vipassana is the process of unwinding the stack: If I can pay attention to my aching knee, remain calm and continue to observe it, slowly my body unclenches, the pain subsides a little, my emotional response is calmer, and so on.
 
@@ -314,11 +345,11 @@ Vipassana is the process of unwinding the stack: If I can pay attention to my ac
 The New-New Distractions
 
 
-Let us quickly revisit our third suspension of disbelief: ``dissolution of the body is a thing.'' Neuroscience tells us some interesting things about the nature of our sense of self and how it relates to our body. From ``Where Am I?'' [11]:
+Let us quickly revisit our third suspension of disbelief: ``dissolution of the body is a thing.'' Neuroscience tells us some interesting things about the nature of our sense of self and how it relates to our body. From ``Where Am I?'' \cite{whereami}:
 
-“The studies reported that people who had once been able-bodied and then became paralyzed felt… less. Less happy than able-bodied people, less sad than able-bodied people. Just less.”
+``The studies reported that people who had once been able-bodied and then became paralyzed felt… less. Less happy than able-bodied people, less sad than able-bodied people. Just less.''
 
-“Our being is rooted in a body-state. If I were able to remove from your brain, the representation of your body, you would not know that you were you.”
+``Our being is rooted in a body-state. If I were able to remove from your brain, the representation of your body, you would not know that you were you.''
 
 ...which would seem in line with experiences described by mastered meditators of having ``no I'' or ``no self'' as their fundamental insightful discovery. It also seems necessary to project our experiences from one 10-day Vipassana course into the future, with respect to the extent to which this practice can take us. If it were stated that we could explore the entirety of the nervous system and its relationship to the brain — but not the gallbladder or spinal cord because those are off-limits — we would have reason to believe that there is a portion of the body and/or nervous system which is exempt from the rules governing these interactions.
 
@@ -376,9 +407,9 @@ But that's still the game.
 
 So, great. Vipassana can trick our bodies and brains to emerge an entirely new set of distractions from the practice of... Vipassana. Why, exactly, would anyone do this?
 
-There is a sketch in ``Where Am I?'' [11] about an arguing couple who must overcome their emotional temptation to get wound up by anger, ending in this wonderful quote:
+There is a sketch in ``Where Am I?'' \cite{whereami} about an arguing couple who must overcome their emotional temptation to get wound up by anger, ending in this wonderful quote:
 
-“Honey, don’t forget what the half-life is on the autonomic nervous system.”
+``Honey, don’t forget what the half-life is on the autonomic nervous system.''
 
 The autonomic nervous system is what causes the ``winding stack'' of thought and emotion described earlier. The autonomic nervous system is what makes -- and keeps -- you angry. And afraid. And sad. And anxious. And everything else.
 
@@ -397,7 +428,7 @@ http://blog.deobald.ca/2015/01/drugs-meditation-warnings.html
 Appendix A:
 Can we ``hack'' Vipassana?
 
-If Vipassana is hacking the mind, is there an opportunity for hacking Vipassana? Can we hack the hacking process? Let's ask Martin Thompson. The following slide is from his 2013 talk ``Performance Testing Java Applications'' [12] and while I have no intention of ostracizing non-computer hackers, software was my career once upon a time and the example is appropriate.
+If Vipassana is hacking the mind, is there an opportunity for hacking Vipassana? Can we hack the hacking process? Let's ask Martin Thompson. The following slide is from his 2013 talk ``Performance Testing Java Applications'' \cite{testingjava} and while I have no intention of ostracizing non-computer hackers, software was my career once upon a time and the example is appropriate.
 
 He suggests that any system we intend to observe should be observed through a 3rd party observer by dumping network traffic. For computer systems, this makes a great deal of sense. Were the system under test or the load agents (the Death Star and X-Wings, respectively) to perform the measurements, the measurements and the systems would likely interfere with each other.
 
@@ -413,32 +444,70 @@ Observation of the process itself, rather than observation of your mind via your
 
 This particular distraction may feel justified as the reification of your skepticism. While it pays to be skeptical, try your hardest to avoid skepticism during the course. Approach the practice skeptically until you decide to take a course and then save your analysis of whatever newfound skepticism the course generates for you until after the course is completed. There will be plenty of time to discuss the meditation and the outcomes of the meditation on the 10th day when talking is permitted; explore your skepticism here. Other meditators are likely to be the only ones who will quite comprehend the concepts you are trying to discuss.
 
-[1] ``The Newsroom'':
-\url{https://www.youtube.com/watch?v=2C6h-Yyx9Yk}
-[2] Five Precepts:
-\url{https://en.wikipedia.org/wiki/Five_Precepts}
-[3] S.N. Goenka -- Experience the Truth
-\url{https://www.youtube.com/watch?v=mcbGbN8pFyk&list=PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu&index=2}
-[4] Eric S. Raymond -- How To Become A Hacker
-\url{http://www.catb.org/esr/faqs/hacker-howto.html}
-[5] Michael Abrash -- Why Virtual Reality Will Matter to You
-\url{https://www.youtube.com/watch?v=UDu-cnXI8E8}
-[6] Simulation Hypothesis
-\url{https://en.wikipedia.org/wiki/Simulation_hypothesis}
-[7] The use of visual feedback in restoring brain function:
-\url{https://academic.oup.com/brain/article/132/7/1693/328686}
-[8] Proprioception:
-\url{https://en.wikipedia.org/wiki/Proprioception}
-[9] Nocioception:
-\url{https://en.wikipedia.org/wiki/Nociception}
-[10] Brain activity in hunger and satiety: an exploratory visually stimulated FMRI study
-\url{https://www.ncbi.nlm.nih.gov/pubmed/18292747}
-[11] RadioLab -- Where Am I?
-\url{http://www.radiolab.org/story/91524-where-am-i/}
-[12] Martin Thompson -- Performance Testing Java Applications
-\url{https://www.youtube.com/watch?v=1DuMvpwWHH4}
+\pagebreak
 
+\begin{thebibliography}{9}
+\bibitem{thenewsroom}
+  Aaron Sorkin.
+  \url{https://www.youtube.com/watch?v=2C6h-Yyx9Yk}
+  \textit{The Newsroom}.
+  HBO, 2012.
 
+\bibitem{experiencethetruth}
+  S.N. Goenka.
+  \url{https://www.youtube.com/watch?v=mcbGbN8pFyk&list=PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu&index=2}
+  \textit{Experience the Truth}.
+  Vipassana Research Institute, 1992.
 
+\bibitem{hackerhowto}
+  Eric S. Raymond: How To Become A Hacker,
+  \url{http://www.catb.org/esr/faqs/hacker-howto.html}
+
+\bibitem{abrashvr}
+  Michael Abrash.
+  \url{https://www.youtube.com/watch?v=UDu-cnXI8E8}
+  \textit{Why Virtual Reality Will Matter to You}.
+  Facebook F8 Summit, Fort Mason, 2015.
+
+\bibitem{simulationhypothesis}
+  \url{https://en.wikipedia.org/wiki/Simulation_hypothesis}
+  \textit{Simulation Hypothesis}.
+  Wikipedia.
+
+\bibitem{ramachandranbrainfunction}
+  V. S. Ramachandran, Eric L. Altschuler.
+  \url{https://academic.oup.com/brain/article/132/7/1693/328686}
+  \textit{The use of visual feedback in restoring brain function}.
+  Brain, 132(7):1693–1710, July 2009.
+
+\bibitem{proprioception}
+  \url{https://en.wikipedia.org/wiki/Proprioception}
+  \textit{Proprioception}.
+  Wikipedia.
+
+\bibitem{nocioception}
+  \url{https://en.wikipedia.org/wiki/Nociception}
+  \textit{Nocioception}.
+  Wikipedia.
+
+\bibitem{fmrihunger}
+  Dagmar Führer, Stefan Zysset, Michael Stumvoll.
+  \url{https://www.ncbi.nlm.nih.gov/pubmed/18292747}
+  \textit{Brain activity in hunger and satiety: an exploratory visually stimulated fMRI study}
+  Obesity, 16(5):945-50, May 2008.
+
+\bibitem{whereami}
+  Jad Abumrad, Robert Krulwich.
+  \url{http://www.radiolab.org/story/91524-where-am-i/}
+  \textit{Where Am I?}
+  RadioLab, May 2006.
+
+\bibitem{testingjava}
+  Martin Thompson.
+  \url{https://www.youtube.com/watch?v=1DuMvpwWHH4}
+  \textit{Performance Testing Java Applications}.
+  Devoxx UK, 2013.
+
+\end{thebibliography}
 
 \end{document}
