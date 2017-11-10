@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.24)  9 NOV 2017 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.24)  10 NOV 2017 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -162,25 +162,63 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
 )
-(./vipassana-for-hackers.aux)
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen109
+\captionmargin@=\dimen110
+\captionwidth=\dimen111
+\caption@tempdima=\dimen112
+\caption@indent=\dimen113
+\caption@parindent=\dimen114
+\caption@hangindent=\dimen115
+)
+\c@ContinuedFloat=\count98
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count99
+\c@subtable=\count100
+)
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(./enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen116
+\enit@toks=\toks17
+\enit@inbox=\box28
+\enitdp@description=\count102
+) (./vipassana-for-hackers.aux)
 \openout1 = `vipassana-for-hackers.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-\AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 10.
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -189,11 +227,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 y
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count98
+\c@section@level=\count103
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
-LaTeX Info: Redefining \nameref on input line 6.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
  (./vipassana-for-hackers.out) (./vipassana-for-hackers.out)
 \@outlinefile=\write3
 \openout3 = `vipassana-for-hackers.out'.
@@ -201,17 +239,17 @@ LaTeX Info: Redefining \nameref on input line 6.
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count99
-\scratchdimen=\dimen109
-\scratchbox=\box27
-\nofMPsegments=\count100
-\nofMParguments=\count101
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count102
-\MPscratchDim=\dimen110
-\MPnumerator=\count103
-\makeMPintoPDFobject=\count104
-\everyMPtoPDFconversion=\toks16
+\scratchcounter=\count104
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen118
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -225,26 +263,27 @@ G,.JBIG2,.JB2,.eps]
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) [1
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ [1
 
 {/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdf
 TeX warning (ext4): destination with the same identifier (name{page.1}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 
+l.50 
       [1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 75.
  (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
 
 [2]
-
-LaTeX Warning: Citation `fiveprecepts' on page 3 undefined on input line 91.
-
 Missing character: There is no à in font cmr10!
 Missing character: There is no ¤ in font cmr10!
 Missing character: There is no ¸ in font cmr10!
@@ -267,7 +306,7 @@ Missing character: There is no à in font cmr10!
 Missing character: There is no ¤ in font cmr10!
 Missing character: There is no ° in font cmr10!
 
-Overfull \hbox (1.71355pt too wide) in paragraph at lines 104--105
+Overfull \hbox (1.71355pt too wide) in paragraph at lines 108--109
 []\OT1/cmr/m/n/10 Here, we might choose a more spe-cific term from Psy-chol-ogy
 : habits. Sankha-
  []
@@ -276,13 +315,13 @@ Overfull \hbox (1.71355pt too wide) in paragraph at lines 104--105
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 116.
+(Font)              <7> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 116.
+(Font)              <5> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 116.
+(Font)              <8> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 116.
+(Font)              <6> on input line 120.
 Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no ” in font cmr8!
@@ -296,31 +335,40 @@ Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [5] [6]
-<images/meditation-spectrum-1.jpeg, id=50, 1027.84pt x 770.88pt>
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+[6] <images/meditation-spectrum-1.jpeg, id=51, 1027.84pt x 770.88pt>
 File: images/meditation-spectrum-1.jpeg Graphic file (type jpg)
 
 <use images/meditation-spectrum-1.jpeg>
 Package pdftex.def Info: images/meditation-spectrum-1.jpeg used on input line 1
-67.
+71.
 (pdftex.def)             Requested size: 312.9803pt x 234.73576pt.
  [7 <./images/meditation-spectrum-1.jpeg>] <images/meditation-spectrum-3.jpeg, 
-id=56, 1027.84pt x 770.88pt>
+id=57, 1027.84pt x 770.88pt>
 File: images/meditation-spectrum-3.jpeg Graphic file (type jpg)
 
 <use images/meditation-spectrum-3.jpeg>
 Package pdftex.def Info: images/meditation-spectrum-3.jpeg used on input line 1
-76.
+80.
 (pdftex.def)             Requested size: 312.9803pt x 234.73576pt.
  [8 <./images/meditation-spectrum-3.jpeg>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- <images/sensation-spectrum.jpeg, id=62, 1018.80624pt x 462.72874pt>
+ <images/sensation-spectrum.jpeg, id=63, 1018.80624pt x 462.72874pt>
 File: images/sensation-spectrum.jpeg Graphic file (type jpg)
 
 <use images/sensation-spectrum.jpeg>
-Package pdftex.def Info: images/sensation-spectrum.jpeg used on input line 212.
+Package pdftex.def Info: images/sensation-spectrum.jpeg used on input line 216.
 
 (pdftex.def)             Requested size: 345.0pt x 156.69728pt.
 
@@ -337,52 +385,171 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [9] [10 <./images/sensation-spectrum.jpeg>]
-<images/michael-abrash-senses.png, id=72, 855.195pt x 472.76625pt>
+<images/michael-abrash-senses.png, id=73, 855.195pt x 472.76625pt>
 File: images/michael-abrash-senses.png Graphic file (type png)
 
 <use images/michael-abrash-senses.png>
-Package pdftex.def Info: images/michael-abrash-senses.png used on input line 23
-8.
+Package pdftex.def Info: images/michael-abrash-senses.png used on input line 24
+2.
 (pdftex.def)             Requested size: 345.0pt x 190.71904pt.
+
+Overfull \hbox (1.11174pt too wide) in paragraph at lines 249--250
+[]\OT1/cmr/m/n/10 Abrash dis-cusses the na-ture of the ``Ma-trix Para-dox'' (mo
+re com-monly known
+ []
+
+
+<images/michael-abrash-senses-extended-attached.jpeg, id=78, 1027.84pt x 770.88
+pt>
+File: images/michael-abrash-senses-extended-attached.jpeg Graphic file (type jp
+g)
+ <use images/michael-abrash-senses-extended-attached.jpeg>
+Package pdftex.def Info: images/michael-abrash-senses-extended-attached.jpeg us
+ed on input line 253.
+(pdftex.def)             Requested size: 345.0pt x 258.75514pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+[11 <./images/michael-abrash-senses.png>] [12 <./images/michael-abrash-senses-e
+xtended-attached.jpeg>] [13]
+<images/attention1-restaurant.jpg, id=108, 1001.7425pt x 332.24126pt>
+File: images/attention1-restaurant.jpg Graphic file (type jpg)
+
+<use images/attention1-restaurant.jpg>
+Package pdftex.def Info: images/attention1-restaurant.jpg used on input line 28
+7.
+(pdftex.def)             Requested size: 345.0pt x 114.42563pt.
+
+<images/ma-noisy-restaurant.png, id=109, 855.195pt x 633.36626pt>
+File: images/ma-noisy-restaurant.png Graphic file (type png)
+
+<use images/ma-noisy-restaurant.png>
+Package pdftex.def Info: images/ma-noisy-restaurant.png used on input line 296.
+
+(pdftex.def)             Requested size: 284.52756pt x 210.7221pt.
+ [14 <./images/attention1-restaurant.jpg> <./images/ma-noisy-restaurant.png>]
+<images/attention2-tank.jpg, id=117, 1204.5pt x 903.375pt>
+File: images/attention2-tank.jpg Graphic file (type jpg)
+
+<use images/attention2-tank.jpg>
+Package pdftex.def Info: images/attention2-tank.jpg used on input line 313.
+(pdftex.def)             Requested size: 165.59853pt x 124.1972pt.
+
+<images/ma-sensory-deprivation-tank.png, id=118, 855.195pt x 633.36626pt>
+File: images/ma-sensory-deprivation-tank.png Graphic file (type png)
+
+<use images/ma-sensory-deprivation-tank.png>
+Package pdftex.def Info: images/ma-sensory-deprivation-tank.png used on input l
+ine 316.
+(pdftex.def)             Requested size: 165.59853pt x 122.64096pt.
+ [15 <./images/attention2-tank.jpg> <./images/ma-sensory-deprivation-tank.png>]
+
+<images/attention3-chamber.png, id=125, 752.8125pt x 439.6425pt>
+File: images/attention3-chamber.png Graphic file (type png)
+
+<use images/attention3-chamber.png>
+Package pdftex.def Info: images/attention3-chamber.png used on input line 335.
+(pdftex.def)             Requested size: 165.59853pt x 96.70822pt.
+
+<images/ma-anechoic-chamber.png, id=126, 855.195pt x 633.36626pt>
+File: images/ma-anechoic-chamber.png Graphic file (type png)
+
+<use images/ma-anechoic-chamber.png>
+Package pdftex.def Info: images/ma-anechoic-chamber.png used on input line 338.
+
+(pdftex.def)             Requested size: 165.59853pt x 122.64096pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [16 <./images/attention3-chamber.png> <./images/ma-anechoic-chamber.png>]
+<images/burmese-anapana-triangle.png, id=134, 401.5pt x 232.87pt>
+File: images/burmese-anapana-triangle.png Graphic file (type png)
+
+<use images/burmese-anapana-triangle.png>
+Package pdftex.def Info: images/burmese-anapana-triangle.png used on input line
+ 362.
+(pdftex.def)             Requested size: 345.0pt x 200.11504pt.
+
+<images/face-attention.jpg, id=135, 1284.8pt x 722.7pt>
+File: images/face-attention.jpg Graphic file (type jpg)
+
+<use images/face-attention.jpg>
+Package pdftex.def Info: images/face-attention.jpg used on input line 373.
+(pdftex.def)             Requested size: 345.0pt x 194.06194pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./images/burmese-anapana-triangle.png>]
+<images/face-attention-narrow.jpg, id=145, 1284.8pt x 722.7pt>
+File: images/face-attention-narrow.jpg Graphic file (type jpg)
+
+<use images/face-attention-narrow.jpg>
+Package pdftex.def Info: images/face-attention-narrow.jpg used on input line 38
+2.
+(pdftex.def)             Requested size: 345.0pt x 194.06194pt.
+ [18 <./images/face-attention.jpg> <./images/face-attention-narrow.jpg>]
+<images/ma-anapana.png, id=154, 855.195pt x 633.36626pt>
+File: images/ma-anapana.png Graphic file (type png)
+
+<use images/ma-anapana.png>
+Package pdftex.def Info: images/ma-anapana.png used on input line 391.
+(pdftex.def)             Requested size: 284.52756pt x 210.7221pt.
+ [19 <./images/ma-anapana.png>]
+<images/burmese-vipassana-mechanics.png, id=163, 501.875pt x 301.125pt>
+File: images/burmese-vipassana-mechanics.png Graphic file (type png)
+
+<use images/burmese-vipassana-mechanics.png>
+Package pdftex.def Info: images/burmese-vipassana-mechanics.png used on input l
+ine 414.
+(pdftex.def)             Requested size: 345.0pt x 207.00912pt.
+ [20 <./images/burmese-vipassana-mechanics.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+
+ []
+
+<images/ma-vipassana1.png, id=172, 855.195pt x 633.36626pt>
+File: images/ma-vipassana1.png Graphic file (type png)
+
+<use images/ma-vipassana1.png>
+Package pdftex.def Info: images/ma-vipassana1.png used on input line 440.
+(pdftex.def)             Requested size: 227.62204pt x 168.57574pt.
+ [21 <./images/ma-vipassana1.png>]
+<images/burmese-vipassana-pain.png, id=189, 401.5pt x 232.87pt>
+File: images/burmese-vipassana-pain.png Graphic file (type png)
+
+<use images/burmese-vipassana-pain.png>
+Package pdftex.def Info: images/burmese-vipassana-pain.png used on input line 4
+49.
+(pdftex.def)             Requested size: 345.0pt x 200.11504pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+ [22 <./images/burmese-vipassana-pain.png>] [23]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [11 <./images/michael-abrash-senses.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [12]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
- [13]
+ [24]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [25] [26]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [14]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¦ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
- [15] [16]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
- [17]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
@@ -393,13 +560,13 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 
-Overfull \hbox (42.1119pt too wide) in paragraph at lines 422--424
+Overfull \hbox (42.1119pt too wide) in paragraph at lines 558--560
 []\OT1/cmr/m/n/10 My write-up of my first 10-Day Vipas-sana course: http://blog
 .deobald.ca/2013/02/an-
  []
 
 
-Overfull \hbox (99.00096pt too wide) in paragraph at lines 425--427
+Overfull \hbox (99.00096pt too wide) in paragraph at lines 561--563
 []\OT1/cmr/m/n/10 My com-par-i-son of med-i-ta-tion tech-niques and var-i-ous d
 rugs: http://blog.deobald.ca/2015/01/drugs-
  []
@@ -407,26 +574,28 @@ rugs: http://blog.deobald.ca/2015/01/drugs-
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
-[18] [19]
-Underfull \hbox (badness 5050) in paragraph at lines 451--455
+[27] [28]
+Underfull \hbox (badness 5050) in paragraph at lines 587--591
 []\OT1/cmr/m/n/10 Aaron Sorkin. []$\OT1/cmtt/m/n/10 https : / / www . youtube .
  com / watch ? v = 2C6h-[]Yyx9Yk$[] \OT1/cmr/m/it/10 The
  []
 
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no ± in font cmti10!
 
-Underfull \hbox (badness 3884) in paragraph at lines 457--461
+Underfull \hbox (badness 3884) in paragraph at lines 599--603
 []\OT1/cmr/m/n/10 S.N. Goenka. []$\OT1/cmtt/m/n/10 https : / / www . youtube . 
 com / watch ? v = mcbGbN8pFyk & list =
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 457--461
+Underfull \hbox (badness 1400) in paragraph at lines 599--603
 \OT1/cmtt/m/n/10 PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu & index = 2$[] \OT1/cmr/m/i
 t/10 Ex-pe-ri-ence the Truth\OT1/cmr/m/n/10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--476
+Underfull \hbox (badness 10000) in paragraph at lines 615--618
 [][]$\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Simulation _ hy
 pothesis$[] \OT1/cmr/m/it/10 Sim-u-la-tion
  []
@@ -435,7 +604,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--487
+Underfull \hbox (badness 10000) in paragraph at lines 626--629
 [][]$\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Proprioception$
 [] \OT1/cmr/m/it/10 Pro-pri-o-cep-tion\OT1/cmr/m/n/10 .
  []
@@ -443,39 +612,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 484--487
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¼ in font cmr10!
 
-Underfull \hbox (badness 2512) in paragraph at lines 500--504
+Underfull \hbox (badness 2512) in paragraph at lines 642--646
 []\OT1/cmr/m/n/10 Jad Abum-rad, Robert Krul-wich. []$\OT1/cmtt/m/n/10 http : / 
 / www . radiolab . org / story /
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 506--510
+Underfull \hbox (badness 2119) in paragraph at lines 648--652
+[]\OT1/cmr/m/n/10 Marshall Glick-man. \OT1/cmr/m/it/10 Be-yond the Breath: Ex-t
+raor-di-nary Mind-ful-ness
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 654--658
 []\OT1/cmr/m/n/10 Martin Thomp-son. []$\OT1/cmtt/m/n/10 https : / / www . youtu
 be . com / watch ? v = 1DuMvpwWHH4$[]
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
-[20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 661.
+[29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 661.
  (./vipassana-for-hackers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 661.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 661.
 Package rerunfilecheck Info: File `vipassana-for-hackers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 661.
  ) 
 Here is how much of TeX's memory you used:
- 5142 strings out of 494447
- 77453 string characters out of 6166765
- 156054 words of memory out of 5000000
- 8420 multiletter control sequences out of 15000+600000
+ 6669 strings out of 494447
+ 105552 string characters out of 6166765
+ 186383 words of memory out of 5000000
+ 9885 multiletter control sequences out of 15000+600000
  8440 words of font info for 30 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 29i,8n,23p,1761b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,40p,1761b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
 0.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/
@@ -488,10 +663,10 @@ ic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016basic/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on vipassana-for-hackers.pdf (21 pages, 1549102 bytes).
+Output written on vipassana-for-hackers.pdf (30 pages, 6728772 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

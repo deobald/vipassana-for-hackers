@@ -2,6 +2,10 @@
 
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{enumitem}
+\setlist{noitemsep}
 
 \begin{document}
 
@@ -137,11 +141,11 @@ Vipassana would appear to be ``turtles all the way down'' in precisely this sens
 
 For those unfamiliar, I will briefly overview the rules of the course. During the course you are not permitted books, phones, talking, looking people in the eye, touching, making sounds, snacks, music, or writing implements.
 
-Put more succinctly, your activities will include: Eat, sleep, poop, bath, meditate.
+Put more succinctly, your activities will include: Eat, sleep, poop, bath, meditate.\\
 
-That's it.
+That's it.\\
 
-Meditation will consume approximately 10 to 11 hours per day.
+Meditation will consume approximately ten to eleven hours per day. All courses the world over are free and volunteer-run. Material goods are provided for by donations from previous students.
 
 \pagebreak
 
@@ -229,9 +233,7 @@ The sample spectrum above is missing many, many sensations. I also feel it neces
   \Huge{The Matrix Paradox}
 \end{center}
 
-The following section will require some visual assistance, for which I will use the same slides I used in the talk which corresponds to this paper.
-
-They look like this:
+The following section will require some visual assistance, for which I will use the same slides I used in the talk which corresponds to this paper. An unmodified slide is seen here in Figure~\ref{fig:michael-abrash-senses}.
 
 \begin{figure}[h]
   \centering
@@ -242,90 +244,222 @@ They look like this:
 
 This image is taken from a talk by Michael Abrash, Chief Scientist of the Oculus VR team, at a talk he gave at the Facebook F8 Summit in 2015. \cite{abrashvr} I'm using this slide because it's nicely laid out and because it is incomplete.
 
-Abrash discusses the nature of the ``Matrix Paradox'' \cite{simulationhypothesis} as simply the right neurons firing to simulate any particular environment. ``How do we know we are not in the matrix?'' The question is valid, but the diagram is missing a great deal of sensory input. The following might be a slightly better model of reality:
+Abrash discusses the nature of the ``Matrix Paradox'' (more commonly known as the ``Simulation Hypothesis'' \cite{simulationhypothesis}) as simply the right neurons firing to simulate any particular environment. ``How do we know we are not in the matrix?'' The question is valid, but the diagram is missing a great deal of sensory input. Figure~\ref{fig:michael-abrash-senses-extended} is a slightly better model of reality.
 
-Though a classic sense diagram such as Mr. Abrash’s might describe proprioception \cite{ramachandranbrainfunction, proprioception}, nocioception \cite{nocioception}, and hunger \cite{fmrihunger} as physical ``feeling'', they are definitively not a subset of ``touch'', as they correspond to entirely different activity in the brain. Touch is strictly an external sense dealing with skin. These are internal senses.
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/michael-abrash-senses-extended-attached.jpeg}
+  \caption{A more complete, 7-sense brain mapping.}
+  \label{fig:michael-abrash-senses-extended}
+\end{figure}
+
+Though a classic sense diagram such as Mr. Abrash's might describe proprioception \cite{ramachandranbrainfunction, proprioception}, nocioception \cite{nocioception}, and hunger \cite{fmrihunger} as physical ``feeling'', they are definitively not a subset of ``touch'', as they correspond to entirely different activity in the brain. Touch is strictly an external sense dealing with skin. These are internal senses.
 
 A brain diagram describing The Matrix Paradox is complete only when we map all senses to the brain. I have not, since I haven't named them all. In fact, neurobiology does not yet have names for all sensory input, making such an exercise exceedingly difficult. Proprioception is clearly associated with the cerebellum and hunger is clearly associated with the hypothalamus. Nocioception, however, is a bit more nuanced with regard to the brain's reception of thermal, mechanical, and chemical information — and whether or not the activity is inbound, outbound, conscious, or unconscious. However, assuming all nervous system activity does have corresponding brain activity, one could theoretically map out the Matrix Paradox on the brain as Abrash has started. It seems likely such a diagram would highlight all parts of the entire brain.
 
-On that note, I feel I should introduce an absolutely fantastic RadioLab episode (``Where Am I?'' \cite{whereami}) which addresses this topic of ``other senses'' from the perspectives brought by modern Neuroscience. On the topic of lacking proprioception: ``We have words like `deaf' and `blind'. We do not have words for being deaf or blind to one's own body.'' In the Matrix, perhaps this is either a bug or a feature flag.
+On that note, I feel I should introduce an absolutely fantastic RadioLab episode (\textit{Where Am I?} \cite{whereami}) which addresses this topic of ``other senses'' from the perspectives brought by modern Neuroscience. On the topic of lacking proprioception: ``We have words like `deaf' and `blind'. We do not have words for being deaf or blind to one's own body.'' In the Matrix, perhaps this is either a bug or a feature flag.
 
 Now that we have our diagram for visualizing the use of our senses, we can address them in terms of various altered mental states. Before we get there, however, we will try to come up with a meaningful visual definition of ``attention'' or ``awareness'' with respect to our senses.
 
-On Attention
+
+\pagebreak
+
+\begin{center}
+  \Huge{On Attention}
+\end{center}
 
 The funny thing about Vipassana is that you are doing it already... you're just terrible at it. Vipassana is the inspection of one's own nervous system with narrowly-focused attention but the precision of this focus is not prescribed by the instruction given for the technique. ``As narrow as possible'', perhaps, but in day to day life a normal person cannot possibly narrow her attention to the size of a fingertip. Your attention is, in part, already on your nervous system, with some degree of focus. To the extent that it is, you are doing Vipassana.
 
 If your attention is not directed at your nervous system, where is it? Let's look at three environmental examples which can help us highlight our senses and our awareness within them.
 
-Example 1:
-A bustling restaurant
+\pagebreak
+
+\begin{center}
+  \LARGE{Example 1:}\\
+  \LARGE{A bustling restaurant}
+\end{center}
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/attention1-restaurant.jpg}
+  \caption{A bustling restaurant.}
+  \label{fig:bustling-restaurant}
+\end{figure}
 
 ...and a corresponding sense map something like this:
 
-Assuming we've just placed food in our mouths, our sense of taste is going off like crazy, we're hearing a lot of scattered sound around us, and we're also sufficiently distracted by most of our other senses. Note that we are probably paying very little attention to the internal senses.
-Example 2:
-A sensory deprivation tank
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=10cm]{images/ma-noisy-restaurant.png}
+  \caption{Sense map of a bustling restaurant.}
+  \label{fig:sense-map-bustling-restaurant}
+\end{figure}
 
-The corresponding sense map is on the right.
+Assuming we've just placed food in our mouths, our sense of taste is going off like crazy, we're hearing a lot of scattered sound around us, and we're also sufficiently distracted by most of our other senses. Note that we are probably paying very little attention to the internal senses.
+
+\pagebreak
+
+\begin{center}
+  \LARGE{Example 2:}\\
+  \LARGE{A sensory deprivation tank}
+\end{center}
+
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.48\linewidth}
+    \includegraphics[width=\linewidth]{images/attention2-tank.jpg}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.48\linewidth}
+    \includegraphics[width=\linewidth]{images/ma-sensory-deprivation-tank.png}
+  \end{subfigure}
+  \caption{A sensory deprivation tank and corresponding sense map.}
+  \label{fig:sensory-deprivation-tank}
+\end{figure}
 
 Here, the classic 5-sense model fails us, since sensory deprivation only deprives us of these 5 senses. When Neo is first exposed to the reality of The Matrix, the pods which imprison the humans loosely resemble such sensory deprivation tanks, which is reason enough to believe that we are not in that matrix. As anyone who has ever entered a sensory deprivation tank knows, it is not like being in a coma. The mind is still very active and it may actually help in causing someone to pay attention to their internal senses.
 
-Example 3:
-An anechoic chamber
+\pagebreak
 
-The corresponding sense map is again on the right.
+
+\begin{center}
+  \LARGE{Example 3:}\\
+  \LARGE{An anechoic chamber}
+\end{center}
+
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.48\linewidth}
+    \includegraphics[width=\linewidth]{images/attention3-chamber.png}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.48\linewidth}
+    \includegraphics[width=\linewidth]{images/ma-anechoic-chamber.png}
+  \end{subfigure}
+  \caption{An anechoic chamber and corresponding sense map.}
+  \label{fig:anechoic-chamber}
+\end{figure}
 
 The map for an anechoic chamber may seem surprising. However, just because the room you are in has a negative decibel rating does not mean you cannot hear. In fact, in this environment, your sense of hearing is likely to be amplified — and turned inward. You will hear your heart beating, your blood pumping, your digestive system sloshing around. The better the anechoic chamber at swallowing sound, the more intense this experience is going to be.
 
 For this reason, the above anechoic chamber has a record of 45 minutes for the longest period anyone has sat inside it. As it turns out, hearing one's own bodily functions at deafening internal volumes is likely to cause someone to go a bit crazy, hence the highlighted bar for thought activity.
 
-The above three examples serve as templates with external input guiding one's understanding of what is happening neurologically.Anapana Meditation:
-Practicing Focus
+The above three examples serve as templates with external input guiding one's understanding of what is happening neurologically.
 
-The first 3.5 days of a 10-day Vipassana course are spend practicing ``Anapana'' (breath) meditation. This period is very important as it is time spent practicing acute, one-pointed attention. If we imagine our attention as a pink dot, the goal is the following clown effigy:
+
+\pagebreak
+
+\begin{center}
+  \Huge{Anapana Meditation:}\\
+  \Huge{Practicing Focus}
+\end{center}
+
+The first 3.5 days of a 10-day Vipassana course are spend practicing ``Anapana'' (breath) meditation. This period is very important as it is time spent practicing acute, one-pointed attention. If we visualize our attention as any skin (internal or external; lips, nose, nostrils, etc.) covered by the pink triangle in Figure~\ref{fig:burmese-anapana-triangle}, we will get an idea of exactly where one's attention is directed at the beginning of Anapana practice.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/burmese-anapana-triangle.png}
+  \caption{Large, triangular Anapana meditation target.}
+  \label{fig:burmese-anapana-triangle}
+\end{figure}
 
 If you have ever practiced a single-pointed meditation (particularly breath meditations) before, you know all too well how easily your mind can be distracted. Taxes, Mom's birthday, an upcoming meeting, a fun math problem, what's for lunch, the itch on my ear... anything can become a distraction because everything which is not ``my breath'' is by definition a distraction. And we are not accustomed to spending long stretches of time with unwavering, singular focus. We are especially unaccustomed to doing so with all of our attention focused on our breath.
 
 As you practice Anapana for over 30 hours, you will find your attention wandering less and less, while (paradoxically) the distractions become more and more interesting. The itch on your ear becomes an itch on your nose which seems to move with the breath. Your brain will spend less time worrying about taxes and more time trying to solve interesting math problems (if that's your thing).
 
-On the first day, your attention might look something like this:
-…where the wavy pink cloud represents any attention spent on any part of the body other than the nostrils or spent ``outside'' the body on thoughts and emotions. By the fourth day, your attention will often take a shape like this instead:
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/face-attention.jpg}
+  \caption{Wandering attention.}
+  \label{fig:wandering-attention}
+\end{figure}
+
+On the first day, your attention might look something like Figure~\ref{fig:wandering-attention}, where the wavy pink cloud represents any attention spent on any part of the body other than the nostrils or spent ``outside'' the body on thoughts and emotions. By the fourth day, your attention will often take a shape something like Figure~\ref{fig:narrow-attention}. Over the course of the first three days, the instructions narrow down one's attention from the nose-and-lips triangle from Figure~\ref{fig:burmese-anapana-triangle} to a finger-tip-sized area wherever the breath can be felt beneath the nostrils.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{images/face-attention-narrow.jpg}
+  \caption{Narrow attention.}
+  \label{fig:narrow-attention}
+\end{figure}
+
+If we revisit the notion that ``meditation is a thing'', we can see a specific example in Anapana with the help of the sense map in Figure~\ref{fig:anapana-sense-map}. Where mindfulness and violin, albeit useful physical and mental practices, are not meditation, we can see from the sense map that Anapana \textit{is} meditation. It is the practice of narrowing one's attention, repeatedly, toward a specific sense (in this case, touch) at a specific time (now) in a specific place (just beneath the nostrils). As our skill in Anapana improves, we come nearer and nearer to the focus-oriented meditation ideal of a single point of awareness with unwavering focus.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=10cm]{images/ma-anapana.png}
+  \caption{Anapana sense map.}
+  \label{fig:anapana-sense-map}
+\end{figure}
+
+In Figure~\ref{fig:anapana-sense-map}, we can see our attention is (realistically) not perfectly tuned and narrowed to a tiny spot under our nose. We are still likely to hear sounds around us on the third day of the course, especially if the sound is monkeys clambering over the roof of the meditation hall.
 
 
+\pagebreak
 
-If we revisit the notion that ``meditation is a thing'', we can see a specific example here in Anapana:
+\begin{center}
+  \Huge{Vipassana Meditation:}\\
+  \Huge{Mutually-Recursive}\\
+  \Huge{Consciousness I/O}
+\end{center}
 
-As much as possible, we are forcing our attention to the sense of touch. In the above diagram, our attention is (realistically) not perfectly tuned and narrowed to a tiny spot under our nose. We are still likely to hear sounds around us on the 3rd day of the course, especially if the sound is monkeys clambering over the roof of the meditation hall.
+Oddly enough, Vipassana mostly seems to be about remaining calm. If you're thinking ``you're sitting there, silent, for 10 hours a day... what is there to get upset about?'' you are in for a surprise. But first, a quick overview of the early mechanics of Vipassana. (See Figure~\ref{fig:vipassana-mechanics}.)
+Attention is moved from the nostril area to the top of the head, then systematically moved across every body part, down to the toes. This process then repeats.
+
+This visualization and description is to act as an \textit{example only}: this is not the only way to begin Vipassana meditation. Though Vipassana instruction is systematic, it is far from mechanical or prescriptive. Even in the initial instructions, alternative approaches are offered including alternate orders of observation, alternate areas of observation, and alternate durations of observation. The key aspect of any approach to Vipassana is that the \textbf{entire body} is repeatedly observed within each meditation period.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/burmese-vipassana-mechanics.png}
+  \caption{Simplified example of initial Vipassana mechanics.}
+  \label{fig:vipassana-mechanics}
+\end{figure}
+
+I will take this opportunity to echo a caveat from the beginning of this paper: This section is in no way a form of instruction. Do not attempt full-body Vipassana meditation outside of a proper 10-day course. Practicing Vipassana is likely the most difficult activity you will ever attempt, should you choose to. To try so alone, you will have no teacher for guidance and the experience is bound to be frustrating.
+
+Consider this warning to also extend to any literature which \textbf{does} attempt to convey Vipassana meditation instruction. Specifically, Glickman's \textit{Beyond the Breath: Extraordinary Mindfulness Through Whole-Body Vipassana Meditation} \cite{glickman} includes a facsimile of instruction provided on a 10-day introductory Vipassana course. Instruction on a course includes 11+ hours of video instruction, at least twice as many hours of audio instruction, and multiple interviews per day with the teacher. Trying to replace this with a book is both inadequate and dangerous.\\
+
+More complex variations are added as the bodily sensation experienced through this probing of the nervous system becomes increasingly subtle. In this order:
+
+\begin{enumerate}
+  \item Add toes-to-head to head-to-toes
+  \item Dual/symmetrical observation (both arms, both legs)
+  \item Observation of a ``ring'' around the entire body
+  \item Observation of as much of the body as possible (while moving attention up and down)
+  \item Penetrating attention of muscles, tissues, organs
+  \item Penetrating attention of the spinal cord
+  \item Randomized attention in fingertip-sized dots throughout the body, inside and out
+  \item Sweeping attention through the entire body, up and down, in a single breath
+\end{enumerate}
+
+Through this process, attention will move from the sense of touch to all the internal senses and the sense map will look more like Figure~\ref{fig:vipassana-sense-map}.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{images/ma-vipassana1.png}
+  \caption{Vipassana sense map.}
+  \label{fig:vipassana-sense-map}
+\end{figure}
+
+I should note that I have never successfully penetrated my muscles or inner tissues much. The average new meditator is likely to feel a great many fascinating sensations on her fingertips, palms, arms, toes, and legs. The torso, since it is surrounded in longer nerve fibres, will take longer to observe in the same way. \textit{[citation needed]}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{images/burmese-vipassana-pain.png}
+  \caption{Common pain for Westerners in meditative postures.}
+  \label{fig:burmese-vipassana-pain}
+\end{figure}
+
+As a Canadian who spent little (if any) of my childhood sitting cross-legged on the floor, Figure~\ref{fig:burmese-vipassana-pain} roughly summarizes most of my early meditation experiences, where the purple dots are intense pain and the pink dot continues to be my awareness. At the peak of my meditation practice toward the end of a course, I would find that if my attention were somewhere away (say, my neck) from the painful area of my body (say, my knees), I may not feel any pain at all. As I moved my attention around, the pain in my knees would come back as I approached them, but every time I could sustain focus on another part of my body, the pain would appear to decrease with every return visit to my knees. If I can remain calm and focused while away from my knees, my knees' pain seems to take care of itself. If I can remain calm and focused while my attention moves across my knees, the situation continues to improve.
+
+If an individual cannot feel pain in one's knees despite the fact that the pain is ``real'', she has effectively eliminated (some) sensory input. This is possible for all sensory input. The five classic sense-doors will quite clearly shut down in deep meditative states. Just because your eyes are closed does not make you blind. Light sensitivity remains, and as a side bonus of an optic nerve injury from a few years ago, I can ``see'' something (the damaged spot of the nerve) even when my eyes are shut and I'm in complete darkness. This blob which I ``see'' disappears in deep meditative states. Similarly, these deep states of meditation will eliminate audio input as well, which is easier for anyone to detect.
 
 
-Vipassana Meditation:
-Mutually-Recursive
-Consciousness I/O
+\pagebreak
 
-
-Oddly enough, Vipassana mostly seems to be about remaining calm. If you're thinking ``you're sitting there, silent, for 10 hours a day... what is there to get upset about?'' you are in for a surprise. But first, a quick overview of the early mechanics of Vipassana:
-Attention is moved from the nostril area to the top of the head, then systematically moved across every body part, down to the toes. This process then repeats. More complex variations are added as the bodily sensation experienced through this probing of the nervous system becomes increasingly subtle. In this order:
-
-Add toes-to-head to head-to-toes
-Dual/symmetrical observation (both arms, both legs)
-Observation of a ``ring'' around the entire body
-Observation of as much of the body as possible (while moving attention up and down)
-Penetrating attention of muscles, tissues, organs
-Penetrating attention of the spinal cord
-Randomized attention in fingertip-sized dots throughout the body, inside and out
-Sweeping attention through the entire body, up and down, in a single breath
-
-Through this process, attention will move from the sense of touch to all the internal senses and the sense map will look more like this:
-
-I should note that I have never successfully penetrated my muscles or inner tissues much. The average new meditator is likely to feel a great many fascinating sensations on her fingertips, palms, arms, toes, and legs. The torso, since it is surrounded in longer nerve fibres, will take longer to observe in the same way.
-
-As a Canadian who spent little (if any) of my childhood sitting cross-legged on the floor, the following diagram roughly summarizes most of my meditation experiences:
-...where the purple dots are intense pain and the pink dot continues to be my awareness. At the peak of my meditation practice toward the end of a course, I would find that if my attention were somewhere away (say, my neck) from the painful area of my body (say, my knees), I may not feel any pain at all. As I moved my attention around, the pain in my knees would come back as I approached them, but every time I could sustain focus on another part of my body, the pain would appear to decrease with every return visit to my knees. If I can remain calm and focused while away from my knees, my knees' pain seems to take care of itself. If I can remain calm and focused while my attention moves across my knees, the situation continues to improve.
-
-If you can’t feel pain in your knees despite the fact that the pain is ``real'', you have effectively eliminated (some) sensory input. This is possible for all sensory input. The 5 classic sense-doors will quite clearly shut down in deep meditative states. Just because your eyes are closed does not make you blind. Light sensitivity remains, and as a side bonus of an optic nerve injury from a few years ago, I can ``see'' something (the damaged spot of the nerve) even when my eyes are shut and I'm in complete darkness. This blob which I ``see'' disappears in deep meditative states. Similarly, these deep states of meditation will eliminate audio input as well, which is easier for anyone to detect.
-Blue Bars:
-The New Distractions
+\begin{center}
+  \Huge{Blue Bars:}\\
+  \Huge{The New Distractions}
+\end{center}
 
 At this point, we can revisit distraction. Distraction is really the essence of meditation. Whether it's taxes, math problems, hunger, itching, or pain... our job as meditators is to accept the presence of a distraction and return our attention to our meditation object.
 
@@ -453,6 +587,12 @@ This particular distraction may feel justified as the reification of your skepti
   \textit{The Newsroom}.
   HBO, 2012.
 
+\bibitem{fiveprecepts}
+  Edited by Access to Insight.
+  \url{https://www.accesstoinsight.org/ptf/dhamma/sila/pancasila.html}
+  \textit{The Five Precepts: pañca-sila}
+  Access to Insight (BCBS Edition), 30 November 2013.
+
 \bibitem{experiencethetruth}
   S.N. Goenka.
   \url{https://www.youtube.com/watch?v=mcbGbN8pFyk&list=PLlb2aTuor6J9j8hACeX6GUmd4WF7QJsbu&index=2}
@@ -501,6 +641,12 @@ This particular distraction may feel justified as the reification of your skepti
   \url{http://www.radiolab.org/story/91524-where-am-i/}
   \textit{Where Am I?}
   RadioLab, May 2006.
+
+\bibitem{glickman}
+  Marshall Glickman.
+  \textit{Beyond the Breath: Extraordinary Mindfulness Through Whole-Body Vipassana Meditation}.
+  Tuttle Publishing, 2002.
+  ISBN: 1582900434
 
 \bibitem{testingjava}
   Martin Thompson.
