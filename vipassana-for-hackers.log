@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  11 NOV 2017 19:51
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  11 NOV 2017 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,7 +744,13 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ] [1] [2] [3]
 LaTeX Font Info:    Font shape `EU1/KohinoorDevanagari(0)/m/n' will be
 (Font)              scaled to size 10.58914pt on input line 117.
- [4]
+
+Overfull \hbox (11.99707pt too wide) in paragraph at lines 119--120
+[]\EU1/lmr/m/n/10 Here, we might choose a more specific term from Psychology: h
+abits. Saṅkhāras,
+ []
+
+[4]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -755,10 +761,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 131.
  [5] [6] [7]
 File: images/meditation-spectrum-1.jpeg Graphic file (type QTm)
- <use  "images/meditation-spectrum-1.jpeg" >
-[8]
+ <use  "images/meditation-spectrum-1.jpeg" > [8]
 File: images/meditation-spectrum-3.jpeg Graphic file (type QTm)
- <use  "images/meditation-spectrum-3.jpeg" > [9]
+
+<use  "images/meditation-spectrum-3.jpeg" > [9]
 File: images/sensation-spectrum.jpeg Graphic file (type QTm)
 
 <use  "images/sensation-spectrum.jpeg" >
@@ -811,17 +817,15 @@ File: images/ma-anapana.png Graphic file (type QTm)
 File: images/burmese-vipassana-mechanics.png Graphic file (type QTm)
 
 <use  "images/burmese-vipassana-mechanics.png" > [22]
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
-
+Overfull \hbox (6.72005pt too wide) in paragraph at lines 446--447
+[]\EU1/lmr/m/n/10 More complex variations are added as the bodily sensation exp
+erienced through
  []
 
 File: images/ma-vipassana1.png Graphic file (type QTm)
 <use  "images/ma-vipassana1.png" > [23]
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
 File: images/burmese-vipassana-pain.png Graphic file (type QTm)
+
 <use  "images/burmese-vipassana-pain.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -835,32 +839,16 @@ File: images/ma-vipassana4.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28] [29] [30] [31]
-Overfull \hbox (3.45004pt too wide) in paragraph at lines 606--607
-[]\EU1/lmr/m/n/10 The autonomic nervous system is what causes the “winding stac
-k” of thought
- []
-
-[32]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 627
+[28] [29] [30] [31] [32]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 628
 .
- (/usr/local/texlive/2016basic/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (8.50003pt too wide) in paragraph at lines 627--628
-[][]$[][][][] [] [] [] [][][][] [] [][][][][][][] [] [][] [] [][][][] [] [][] [
-] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (2.25003pt too wide) in paragraph at lines 631--632
-[][]$[][][][] [] [] [] [][][][] [] [][][][][][][] [] [][] [] [][][][] [] [][] [
-] [][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-[33]
+) [33]
 File: images/deathstar1.png Graphic file (type QTm)
- <use  "images/deathstar1.png" >
+
+<use  "images/deathstar1.png" >
 File: images/deathstar2.png Graphic file (type QTm)
  <use  "images/deathstar2.png" >
 
@@ -872,66 +860,18 @@ File: images/deathstar3.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35] [36]
-Underfull \hbox (badness 5050) in paragraph at lines 680--684
-[]\EU1/lmr/m/n/10 Aaron Sorkin. []$[][][][][] [] [] [] [][][] [] [][][][][][][]
- [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][][]$[] \EU1/lmr/m/it/10 
-The
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 692--696
-[]\EU1/lmr/m/n/10 S.N. Goenka. []$[][][][][] [] [] [] [][][] [] [][][][][][][] 
-[] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 692--696
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][
-][] [] []$[] \EU1/lmr/m/it/10 Experience the Truth\EU1/lmr/m/n/10 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 708--711
-[][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] []
-[][][][][][][][][] [] [][][][][][][][][][]$[] \EU1/lmr/m/it/10 Simulation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--722
-[][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] []
-[][][][][][][][][][][][][]$[] \EU1/lmr/m/it/10 Proprioception\EU1/lmr/m/n/10 .
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 735--739
-[]\EU1/lmr/m/n/10 Jad Abumrad, Robert Krulwich. []$[][][][] [] [] [] [][][] [] 
-[][][][][][][][] [] [][][] [] [][][][][] []
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 741--745
-[]\EU1/lmr/m/n/10 Marshall Glickman. \EU1/lmr/m/it/10 Beyond the Breath: Extrao
-rdinary Mindfulness
- []
-
-[37]
-Underfull \hbox (badness 5622) in paragraph at lines 767--771
-[]\EU1/lmr/m/n/10 Martin Thompson. []$[][][][][] [] [] [] [][][] [] [][][][][][
-][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][]$[]
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 774.
-[38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 774.
+[35] [36] [37]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 782.
+ [38]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 782.
  (./vipassana-for-hackers.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 774.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 774.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 782.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 782.
  ) 
 Here is how much of TeX's memory you used:
  22809 strings out of 495086
  413340 string characters out of 6174757
- 435195 words of memory out of 5000000
+ 434195 words of memory out of 5000000
  25945 multiletter control sequences out of 15000+600000
  5999 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
