@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  13 NOV 2017 12:24
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  13 NOV 2017 13:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -851,18 +851,18 @@ File: images/deathstar3.png Graphic file (type QTm)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [35] [36] [37]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 794.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 800.
  [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 794.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 800.
  (./vipassana-for-hackers.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 794.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 794.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 800.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 800.
  ) 
 Here is how much of TeX's memory you used:
- 22811 strings out of 495086
- 413361 string characters out of 6174757
- 433258 words of memory out of 5000000
- 25947 multiletter control sequences out of 15000+600000
+ 22812 strings out of 495086
+ 413370 string characters out of 6174757
+ 434288 words of memory out of 5000000
+ 25948 multiletter control sequences out of 15000+600000
  5999 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  59i,8n,106p,10433b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
