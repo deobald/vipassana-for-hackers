@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  11 NOV 2017 20:44
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  13 NOV 2017 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,13 +744,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ] [1] [2] [3]
 LaTeX Font Info:    Font shape `EU1/KohinoorDevanagari(0)/m/n' will be
 (Font)              scaled to size 10.58914pt on input line 117.
-
-Overfull \hbox (11.99707pt too wide) in paragraph at lines 119--120
-[]\EU1/lmr/m/n/10 Here, we might choose a more specific term from Psychology: h
-abits. Saṅkhāras,
- []
-
-[4]
+ [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -761,10 +755,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 131.
  [5] [6] [7]
 File: images/meditation-spectrum-1.jpeg Graphic file (type QTm)
- <use  "images/meditation-spectrum-1.jpeg" > [8]
+ <use  "images/meditation-spectrum-1.jpeg" >
+[8]
 File: images/meditation-spectrum-3.jpeg Graphic file (type QTm)
-
-<use  "images/meditation-spectrum-3.jpeg" > [9]
+ <use  "images/meditation-spectrum-3.jpeg" > [9]
 File: images/sensation-spectrum.jpeg Graphic file (type QTm)
 
 <use  "images/sensation-spectrum.jpeg" >
@@ -817,12 +811,8 @@ File: images/ma-anapana.png Graphic file (type QTm)
 File: images/burmese-vipassana-mechanics.png Graphic file (type QTm)
 
 <use  "images/burmese-vipassana-mechanics.png" > [22]
-Overfull \hbox (6.72005pt too wide) in paragraph at lines 446--447
-[]\EU1/lmr/m/n/10 More complex variations are added as the bodily sensation exp
-erienced through
- []
-
 File: images/ma-vipassana1.png Graphic file (type QTm)
+
 <use  "images/ma-vipassana1.png" > [23]
 File: images/burmese-vipassana-pain.png Graphic file (type QTm)
 
