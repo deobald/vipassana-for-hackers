@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  13 NOV 2017 13:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.24)  2 APR 2018 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,16 +743,16 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ] [1] [2] [3]
 LaTeX Font Info:    Font shape `EU1/KohinoorDevanagari(0)/m/n' will be
-(Font)              scaled to size 10.58914pt on input line 117.
+(Font)              scaled to size 10.58914pt on input line 116.
  [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 131.
+(Font)              <7> on input line 130.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 131.
+(Font)              <5> on input line 130.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 131.
+(Font)              <8> on input line 130.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 131.
+(Font)              <6> on input line 130.
  [5] [6] [7]
 File: images/meditation-spectrum-1.jpeg Graphic file (type QTm)
  <use  "images/meditation-spectrum-1.jpeg" >
@@ -808,63 +808,74 @@ File: images/face-attention-narrow.jpg Graphic file (type QTm)
 File: images/ma-anapana.png Graphic file (type QTm)
 
 <use  "images/ma-anapana.png" > [21]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 429
+.
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+File: images/bridge.png Graphic file (type QTm)
+
+<use  "images/bridge.png" > [22]
 File: images/burmese-vipassana-mechanics.png Graphic file (type QTm)
 
-<use  "images/burmese-vipassana-mechanics.png" > [22]
+<use  "images/burmese-vipassana-mechanics.png" > [23]
 File: images/ma-vipassana1.png Graphic file (type QTm)
 
-<use  "images/ma-vipassana1.png" > [23]
+<use  "images/ma-vipassana1.png" > [24]
 File: images/burmese-vipassana-pain.png Graphic file (type QTm)
 
 <use  "images/burmese-vipassana-pain.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24] [25]
+[25]
+File: images/wall.jpg Graphic file (type QTm)
+ <use  "images/wall.jpg" >
+File: images/bridge.png Graphic file (type QTm)
+ <use  "images/bridge.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26] [27]
 File: images/ma-vipassana3.png Graphic file (type QTm)
- <use  "images/ma-vipassana3.png" > [26] [27]
+ <use  "images/ma-vipassana3.png" > [28] [29]
 File: images/ma-vipassana4.png Graphic file (type QTm)
 
 <use  "images/ma-vipassana4.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28] [29] [30] [31] [32]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 628
-.
-
-(/usr/local/texlive/2016basic/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [33]
+[30] [31] [32] [33] [34] [35]
 File: images/deathstar1.png Graphic file (type QTm)
-
-<use  "images/deathstar1.png" >
+ <use  "images/deathstar1.png" >
 File: images/deathstar2.png Graphic file (type QTm)
- <use  "images/deathstar2.png" >
+
+<use  "images/deathstar2.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34]
+[36]
 File: images/deathstar3.png Graphic file (type QTm)
  <use  "images/deathstar3.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35] [36] [37]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 800.
- [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 800.
+[37] [38] [39]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 846.
+ [40]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 846.
  (./vipassana-for-hackers.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 800.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 800.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 846.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 846.
  ) 
 Here is how much of TeX's memory you used:
- 22812 strings out of 495086
- 413370 string characters out of 6174757
- 434288 words of memory out of 5000000
- 25948 multiletter control sequences out of 15000+600000
+ 22819 strings out of 495086
+ 413451 string characters out of 6174757
+ 434444 words of memory out of 5000000
+ 25953 multiletter control sequences out of 15000+600000
  5999 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  59i,8n,106p,10433b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vipassana-for-hackers.pdf (39 pages).
+Output written on vipassana-for-hackers.pdf (41 pages).
