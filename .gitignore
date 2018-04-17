@@ -1,0 +1,9 @@
+# latexml byproducts
+*.html
+*.xml
+*.cache
+
+# xetex byproducts
+*.log
+*.aux
+*.out
