@@ -6,5 +6,7 @@
 # xelatex is apparently less capable than pdflatex at font-rendering in general, but
 # is capable of rendering non-Latin fonts (like Hindi/Sanskrit) by default
 
-xelatex vipassana-for-hackers.tex
+# Compile twice to resolve references.
 
+xelatex vipassana-for-hackers.tex
+xelatex vipassana-for-hackers.tex
