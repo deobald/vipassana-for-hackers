@@ -1,8 +1,8 @@
 # Vipassana for Hackers
 
-A document version of the talk "[Vipassana for Hackers](https://www.youtube.com/watch?v=1BWYqHbF00c)" by Steven Deobald ([GitHub: @deobald](https://github.com/deobald), [Twitter: @deobald](https://twitter.com/deobald).
+A document version of the talk "[Vipassana for Hackers](https://www.youtube.com/watch?v=1BWYqHbF00c)" by Steven Deobald ([GitHub](https://github.com/deobald), [Twitter](https://twitter.com/deobald)).
 
-epub version of the LaTeX generated with the following procedure on macOS 10.13.4
+epub version of the LaTeX generated with the following procedure on macOS 10.13.4 (also tested on 10.10.5):
 
 ```sh
 $ git clone https://github.com/deobald/vipassana-for-hackers
