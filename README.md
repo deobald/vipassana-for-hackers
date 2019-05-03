@@ -32,7 +32,8 @@ $ ./build-epub.sh
 
 ## TODO
 
-- [ ] Script epub generation
-- [ ] Add a Makefile
-- [ ] Invert brain diagram colours for Paper One
 - [x] Create output directory
+- [x] Script epub generation
+- [x] Add a Makefile
+- [ ] Test epub gen, add to makefile, add full build target
+- [ ] Invert brain diagram colours for Paper One
