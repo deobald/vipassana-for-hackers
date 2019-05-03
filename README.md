@@ -11,7 +11,7 @@ On a Mac, the easiest option is installing [MacTeX](https://tug.org/mactex/macte
 ```sh
 $ git clone https://github.com/deobald/vipassana-for-hackers
 $ cd vipassana-for-hackers
-$ ./build.sh
+$ ./build-pdf.sh
 ```
 
 You will see many warnings but you shouldn't see any errors.
@@ -27,15 +27,12 @@ $ git clone https://github.com/deobald/vipassana-for-hackers
 $ brew install latexml
 $ brew install caskroom/cask/calibre
 $ cd vipassana-for-hackers
-$ latexml --dest=vipassana-for-hackers.xml vipassana-for-hackers.tex
-$ latexmlpost -dest=vipassana-for-hackers.html vipassana-for-hackers.xml
-$ which ebook-convert
-/usr/local/bin/ebook-convert
-$ ebook-convert vipassana-for-hackers.html vipassana-for-hackers.epub --language en --output-profile=kindle --authors="Steven Deobald" --title="Vipassana for Hackers"
+$ ./build-epub.sh
 ```
 
 ## TODO
 
 - [ ] Script epub generation
+- [ ] Add a Makefile
 - [ ] Invert brain diagram colours for Paper One
-- [ ] Create output directory
+- [x] Create output directory
