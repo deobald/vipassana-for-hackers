@@ -8,5 +8,9 @@
 
 # Compile twice to resolve references.
 
-xelatex vipassana-for-hackers.tex
-xelatex vipassana-for-hackers.tex
+OUT=../output
+
+xelatex -output-directory=$OUT paper-one.tex
+xelatex -output-directory=$OUT paper-one.tex
+
+rm $OUT/*.aux $OUT/*.log $OUT/*.out
