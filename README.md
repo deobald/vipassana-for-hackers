@@ -34,3 +34,8 @@ $ which ebook-convert
 $ ebook-convert vipassana-for-hackers.html vipassana-for-hackers.epub --language en --output-profile=kindle --authors="Steven Deobald" --title="Vipassana for Hackers"
 ```
 
+## TODO
+
+- [ ] Script epub generation
+- [ ] Invert brain diagram colours for Paper One
+- [ ] Create output directory
