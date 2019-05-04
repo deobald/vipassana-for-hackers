@@ -48,4 +48,5 @@ $ ./build-epub.sh
 - [x] Script epub generation
 - [x] Add a Makefile
 - [ ] Test epub gen, add to makefile, add full build target
+- [ ] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
 - [ ] Invert brain diagram colours for Paper One
