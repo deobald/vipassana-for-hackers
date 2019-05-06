@@ -11,7 +11,7 @@ On a Mac, install MacTeX, LaTeXML, and Calibre as instructed below. (Linux shoul
 ```sh
 $ git clone https://github.com/deobald/vipassana-for-hackers
 $ cd vipassana-for-hackers
-$ make
+$ make clean && make
 ```
 
 ---
