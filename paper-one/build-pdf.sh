@@ -8,9 +8,16 @@
 
 # Compile twice to resolve references.
 
+SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
+LIBPATH="$SCRIPTPATH/../lib"
+
+PATH=$PATH:$LIBPATH
+
 OUT=../output
 
-xelatex -output-directory=$OUT paper-one.tex
+echo "Running pre-build. This takes a while..."
+xelatex -output-directory=$OUT paper-one.tex > /dev/null 2>&1
+echo "...done. Now running the build."
 xelatex -output-directory=$OUT paper-one.tex
 
 rm $OUT/*.aux $OUT/*.log $OUT/*.out
