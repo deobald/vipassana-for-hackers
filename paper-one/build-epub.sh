@@ -14,4 +14,4 @@ latexmlpost -dest=paper-one.html paper-one.xml
 
 ebook-convert paper-one.html ../output/paper-one.epub --language en --output-profile=kindle --authors="Steven Deobald" --title="Vipassana for Hackers"
 
-rm paper-one.xml paper-one.html LaTeXML.cache LaTeXML.css ltx-article.css
+rm -f paper-one.xml paper-one.html LaTeXML.cache LaTeXML.css ltx-article.css

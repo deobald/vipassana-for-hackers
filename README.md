@@ -47,7 +47,7 @@ $ ./build-epub.sh
 - [x] Create output directory
 - [x] Script epub generation
 - [x] Add a Makefile
-- [ ] Test epub gen, add to makefile, add full build target
+- [x] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
+- [x] Test epub gen, add to makefile, add full build target
 - [ ] Transcribe Paper Three and Paper Four notes
-- [ ] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
 - [ ] Invert brain diagram colours for Paper One
