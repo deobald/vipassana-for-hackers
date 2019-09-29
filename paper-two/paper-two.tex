@@ -1,11 +1,7 @@
-\documentclass[twocolumn]{article}
-
-\usepackage{polyglossia}
-\setdefaultlanguage{english}
-\setotherlanguage{sanskrit}
-\usepackage{fontspec}
-\newfontfamily\devanagarifont[Scale=MatchUppercase]{Kohinoor Devanagari}
-
+\documentclass[a4paper, amsfonts, amssymb, amsmath, reprint, showkeys, nofootinbib, twoside]{revtex4-1}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[colorinlistoftodos, color=green!40, prependcaption]{todonotes}
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{float}
@@ -13,27 +9,30 @@
 \usepackage{enumitem}
 \usepackage{hyperref}
 
-\setlength{\parindent}{1.3em}
-\setlength{\parskip}{0.7em}
+\bibliographystyle{apsrev4-1}
 \setlist{noitemsep}
 
 \begin{document}
 
-\begin{titlepage}
-   \vspace*{\stretch{1.0}}
-   \begin{center}
-     \Huge\textbf{Vipassana for Hackers}\\
-     \Huge{Paper Two: The Brain}\\
-     \vspace{5cm}
-     \large\textit{Preethi Govindarajan}\\
-     \large\textit{Version 0.1}\\
-     \large\textit\today\\
-     \vspace{5cm}
-     \large\textit{Contributions by: Steven Deobald}\\
-   \end{center}
-   \vspace*{\stretch{2.0}}
-\end{titlepage}
+\title{%
+  \Huge{Vipassana for Hackers} \\
+  \large{Paper Two: The Brain} \\
+  \large\textit{Version 0.2}
+}
+\author{Preethi Govindarajan}
+\email[Correspondence email address: ]{preethi@deobald.ca}
+\affiliation{Siggu.org}
+\date{\today}
 
+\begin{abstract}
+  \todo{add an abstract} This is the abstract. etc. etc.
+\end{abstract}
+
+\keywords{neuroscience, vipassana, meditation}
+
+\maketitle
+
+\listoftodos
 
 \section{Introduction}
 
@@ -61,7 +60,7 @@ inquiry presented in this paper.
     do with the brain. But the mind is totally different. In the West, all importance
     is given to the brain as if the mind is located here. Nothing doing, it is
     everywhere. The mind is in the whole body. So give attention to the whole
-    body.} \cite{goenkabrain}
+    body.} --- S.N. Goenka \cite{goenkabrain}
 \end{quote}
 
 This paper does not contradict Mr. Goenka's sentiment, but instead acts as a starting
@@ -69,8 +68,7 @@ point for readers who view the function of the brain as central to the activity 
 the mind.
 
 \textbf{Disclaimer:} Although my primary field of research is within the field of
-biology, my work is far removed
-from neuroscience. I have tried to simplify the research available so as to better
+biology, my work is far removed from neuroscience. I have tried to simplify the research available so as to better
 understand it. If there are any corrections to make or editing in terms of the
 content, please feel free to get in touch with me.
 
@@ -95,7 +93,7 @@ governed by the Salience Network (SN), the collection of regions in the brain wh
 help decide which stimuli deserve our attention. The SN acts as a switch between the
 internally-directed DMN and the externally-directed CEN. \cite{saliencenetwork}
 
-[ TODO: insert switching diagram ]
+\todo{insert switching diagram}
 
 
 \subsection{Default Mode Network}
@@ -126,7 +124,9 @@ stimuli, both positive and negative, and acts as an interface between the extern
 world and the individual by gauging the importance of different
 stimuli. \cite{pccemotion}
 
-[ TODO: MRI of DMN image ] \cite{dmnmri}
+\todo{ insert image of ``MRI of DMN'' }
+\textit{Magnetic Resonance Image of the areas of the brain in the Default Mode Network.}
+http://www.frontiersin.org/Neurotrauma/10.3389/fneur.2013.00016/full
 
 The vmPFC is involved in creating a conceptual self by self-related processing
 and the assignment of personal significance to self-related
@@ -135,12 +135,12 @@ Cortex (dmPFC), which assists in the creation of the conceptual self through an
 individual's consideration of ``others'', to construct the Medial Prefrontal Cortex
 (mPFC).
 
-[ TODO: explain IPL? ]
+\todo{explain IPL?}
 
 It is hypothesized that the activation of these three regions of the brain (PCC,
 vmPFC, and IPL) are responsible for providing a sense of self --- a subjective agent
 in space and time. It functions as a network in which phenomena such as self
-representations are accessible via the PCC [ TODO: ref ] and are gated into conscious awareness by
+representations are accessible via the PCC \todo{add PCC reference} and are gated into conscious awareness by
 activity in the mPFC, as influenced by changing internal and external demands. The
 PCC acts as a brain-wide connectivity hub, through which a unitary notion of self is
 created by a large scale integration of DMN activity. \cite{mappingself}
@@ -162,9 +162,9 @@ and altruistic behavior. \cite{defaultnetworkadaptive,dmpfcothers,dmpfcaltruism}
 The DMN is also involved in remembering the past, imagining the future, and story
 comprehension. \cite{defaultnetworkadaptive}
 
-[ TODO: expand? how? ]
+\todo{expand on DMN involvement in past/future/stories. how does this work?}
 
-[ TODO: Summarize DMN? Maybe introduce why it's relevant to meditation? ]
+\todo{Summarize DMN? Maybe introduce why it's relevant to meditation?}
 
 \subsection{Central Executive Network}
 
@@ -191,16 +191,16 @@ decision making through emotion and reward. It also receives input from multiple
 sensory modalities and in turn activates the Amygdala and the
 Hypothalamus. \cite{theprefrontalcortex,ofcprimates,theorbitofrontalcortex}
 
-[ TODO: image of Approximate location of the OFC on an MRI ]
+\todo{add image of Approximate location of the OFC on an MRI}
 
 \subsubsection{Posterior Parietal Cortex}
 
 The PPC receives information from the auditory, visual and somatosensory systems and
 in turn activates the Motor Cortex or DL-PFC. \cite{parietallobes}
 
-[ TODO: why? how? expand. ]
+\todo{why and how does the PCC receive external information and activate the motor cortex/DL-PFC? expand.}
 
-[ TODO: Summarize CEN? Relevance to meditation? ]
+\todo{Summarize CEN? Relevance to meditation?}
 
 \subsection{Salience Network}
 
@@ -241,15 +241,16 @@ sensations (including judgement of the severity of pain), taste, and control of 
 immune system. \cite{aicautonomic}
 
 The AIC and ACC together give rise to our interoceptive and conscious
-self-awareness. [ TODO: reference ]
+self-awareness. \todo{add reference justifying statement that AIC+ACC create
+  conscious self-awareness}
 
 \subsection{The Limbic System}
 
 The limbic system is a complex set of structures that lies on both sides of the
 Thalamus, just under the Cerebrum. It includes the Hypothalamus, the Hippocampus, the
 Amygdala, and several other nearby areas. It appears to be primarily responsible for
-our emotional life, and has a lot to do with the formation of memories. [ TODO:
-  reference ]
+our emotional life, and has a lot to do with the formation of memories. \todo{add
+  reference for limbic system}
 
 \section{The Course}
 
@@ -372,10 +373,10 @@ not less.
 
 (The somatosensory cortex is located in the gyrus and the parietal lobes: The sensory
 homunculus which is a part of the somatosensory cortex is a cortical representation
-of the body based on the degree of sensory innervation) [ TODO: Maybe move this to
-  the anatomy section? ]
+of the body based on the degree of sensory innervation) \todo{Maybe move sensory
+  homunculus diagram and explanation to the anatomy section?}
 
-[ TODO: sensory homunculus diagram ]
+\todo{add sensory homunculus diagram}
 Somatosensory and Motor cortices
 
 Perhaps the strangest experience during a Vipassana course is that of shifts in your
@@ -412,7 +413,8 @@ minimum observational change neccesary to instill an interest, to keep practicin
 There have been studies looking at both the structural changes in the brain and
 functional changes in brain activity, especially to the DMN and the SN. But such
 studies are usually only done on meditators who have clocked thousands of hours of
-practice, which diverges from the purpose of this paper. [ TODO: ref? ]
+practice, which diverges from the purpose of this paper. \todo{add references with
+  evidence of structural changes in the brain after meditation}
 
 How is Vipassana different from simply concentrating on a task, as hard as one can?
 When concentrating on any task, your DMN is quieted, the SN and CEN are firing, and you
@@ -428,11 +430,13 @@ soon as talking was allowed), those very changes started slipping away. But with
 hour-long meditation at home, a tiny bit sticks just a little more. And I get closer
 to my answer.
 
+\section{Acknowledgements}
 
-\pagebreak
+Thank you to Steven Deobald for reviews, edits, and corrections.
 
-\begin{thebibliography}{9}
-\raggedright
+\begin{thebibliography}{99}
+
+\section*{References}
 
 \bibitem{goenkabrain}
   S.N. Goenka.
@@ -457,10 +461,6 @@ to my answer.
   \textit{Salience Network.}
   Elsevier. pp. 597–611, 2015
   ISBN: 978–0–12–397316–0.
-
-\bibitem{dmnmri}
-  \textit{Magnetic Resonance Image of the areas of the brain in the Default Mode Network.}
-  http://www.frontiersin.org/Neurotrauma/10.3389/fneur.2013.00016/full
 
 \bibitem{pccrole}
   Leech R, Sharp DJ
@@ -594,7 +594,8 @@ to my answer.
 \bibitem{parietallobes}
   Martin, R. E.
   \textit{Let’s Get to Know the Parietal Lobes!}
-  \url{http://gablab.mit.edu/downloads/Parietal_Primer.pdf} [ TODO: 404? ]
+  \url{http://gablab.mit.edu/downloads/Parietal_Primer.pdf}
+  \todo{parietal lobes article returns a 404. fix.}
 
 \bibitem{relaxationresponse}
   Lazar SW; Bush George; Gollub RL.; Fricchione, GL.; Khalsa G; Benson H.
@@ -627,5 +628,8 @@ to my answer.
   https://doi.org/10.1016/j.cortex.2013.01.006. 2013.
 
 \end{thebibliography}
+
+% \appendix*
+% \input{sections/appendix1.tex}
 
 \end{document}
