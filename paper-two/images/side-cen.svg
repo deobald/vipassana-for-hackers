@@ -14,7 +14,7 @@
    height="600"
    viewBox="0 0 518 600"
    id="Layer_1"
-   sodipodi:docname="CEN.svg"
+   sodipodi:docname="side-cen.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    enable-background="new">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,7 +43,7 @@
      id="namedview258"
      showgrid="false"
      inkscape:zoom="1.3466667"
-     inkscape:cx="129.80793"
+     inkscape:cx="4.6841707"
      inkscape:cy="280.51756"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -535,29 +535,7 @@
      d=""
      id="path950"
      inkscape:connector-curvature="0" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot951"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(46.039607,-9.653465)"><flowRegion
-       id="flowRegion953"><rect
-         id="rect955"
-         width="87.623756"
-         height="28.217821"
-         x="53.465343"
-         y="138.8614" /></flowRegion><flowPara
-       id="flowPara957">DL-PFC</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot961"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-2,8)"><flowRegion
-       id="flowRegion963"><rect
-         id="rect965"
-         width="52.722771"
-         height="27.475246"
-         x="26.732672"
-         y="190.8416" /></flowRegion><flowPara
-       id="flowPara967">OFC</flowPara></flowRoot>  <ellipse
+  <ellipse
      style="display:none;fill:#cccccc;filter:url(#filter997)"
      id="path973"
      cx="133.66336"
@@ -565,35 +543,54 @@
      rx="50.495049"
      ry="37.871284" />
   <ellipse
-     style="opacity:0.253;fill:#cccccc;fill-opacity:1"
-     id="path1001"
-     cx="145.17326"
-     cy="137.37625"
-     rx="54.579208"
-     ry="54.20792" />
-  <ellipse
-     style="opacity:0.253;fill:#cccccc;fill-opacity:1;stroke-width:1.03070271"
-     id="path1011"
-     cx="71.854279"
-     cy="165.2785"
-     rx="39.476234"
-     ry="37.197979"
-     transform="matrix(0.92728365,0.3743595,-0.03939298,0.9992238,0,0)" />
-  <ellipse
-     style="opacity:0.253;fill:#cccccc;fill-opacity:1"
-     id="path1013"
-     cx="360.77228"
-     cy="123.80695"
-     rx="29.702971"
-     ry="27.846535" />
-  <flowRoot
+     style="opacity:1;fill:#ff9955;fill-opacity:1"
+     id="path940-9"
+     cx="147.20792"
+     cy="128.63367"
+     rx="33.41584"
+     ry="30.445543" />
+  <text
      xml:space="preserve"
-     id="flowRoot1015"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion1017"><rect
-         id="rect1019"
-         width="42.326733"
-         height="23.019802"
-         x="343.06931"
-         y="115.09902" /></flowRegion><flowPara
-       id="flowPara1021">PPC</flowPara></flowRoot></svg>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="148.63367"
+     y="130.23764"
+     id="text947"><tspan
+       sodipodi:role="line"
+       id="tspan945"
+       x="148.63367"
+       y="130.23764">DL-PFC</tspan></text>
+  <ellipse
+     style="opacity:1;fill:#ff9955;fill-opacity:1"
+     id="path940-9-9"
+     cx="68.396042"
+     cy="199.25743"
+     rx="33.41584"
+     ry="30.445543" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="69.093353"
+     y="203.44934"
+     id="text947-6"><tspan
+       sodipodi:role="line"
+       id="tspan945-6"
+       x="69.093353"
+       y="203.44934">OFC</tspan></text>
+  <ellipse
+     style="opacity:1;fill:#ff9955;fill-opacity:1"
+     id="path940-9-4"
+     cx="371.43564"
+     cy="121.71288"
+     rx="33.41584"
+     ry="30.445543" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="369.40594"
+     y="121.8416"
+     id="text1017"><tspan
+       sodipodi:role="line"
+       id="tspan1015"
+       x="369.40594"
+       y="121.8416">PPC</tspan></text>
+</svg>
