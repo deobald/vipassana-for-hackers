@@ -14,9 +14,12 @@
    height="600"
    viewBox="0 0 518 600"
    id="Layer_1"
-   sodipodi:docname="side-dmn-final.svg"
+   sodipodi:docname="side-dmn.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   style="zoom: 1;">
+   style="zoom: 1;"
+   inkscape:export-filename="C:\Users\Preethi's Laptop\Documents\vipassana-for-hackers\paper-two\images\side-dmn.png"
+   inkscape:export-xdpi="100.3"
+   inkscape:export-ydpi="100.3">
   <metadata
      id="metadata260">
     <rdf:RDF>
@@ -43,7 +46,7 @@
      id="namedview258"
      showgrid="false"
      inkscape:zoom="1.3466667"
-     inkscape:cx="-3.6693193"
+     inkscape:cx="133.74466"
      inkscape:cy="411.68707"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -525,18 +528,7 @@
        id="tspan942"
        x="118.72277"
        y="226.73268">vmPFC</tspan></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot946"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-6,8)"><flowRegion
-       id="flowRegion948"><rect
-         id="rect950"
-         width="41.584156"
-         height="21.534653"
-         x="320.0495"
-         y="119.55447" /></flowRegion><flowPara
-       id="flowPara952">PCC</flowPara></flowRoot>  <ellipse
+  <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path940-9"
      cx="63"
@@ -560,33 +552,41 @@
      cy="255.44554"
      rx="34.90099"
      ry="34.529701" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot946-1"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-95.078104,125.93803)"><flowRegion
-       id="flowRegion948-6"><rect
-         id="rect950-8"
-         width="41.584156"
-         height="21.534653"
-         x="320.0495"
-         y="119.55447" /></flowRegion><flowPara
-       id="flowPara952-9">MTL</flowPara></flowRoot>  <ellipse
+  <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path938-2"
      cx="334.73267"
      cy="91.079224"
      rx="34.90099"
      ry="34.529701" />
-  <flowRoot
+  <text
      xml:space="preserve"
-     id="flowRoot946-6"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-5.5929557,-37.89365)"><flowRegion
-       id="flowRegion948-0"><rect
-         id="rect950-5"
-         width="41.584156"
-         height="21.534653"
-         x="320.0495"
-         y="119.55447" /></flowRegion><flowPara
-       id="flowPara952-8">IPL</flowPara></flowRoot></svg>
+     x="244.67802"
+     y="261.68695"
+     id="text944-5"><tspan
+       sodipodi:role="line"
+       id="tspan942-3"
+       x="244.67802"
+       y="261.68695">MTL</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="335.3053"
+     y="143.82495"
+     id="text944-0"><tspan
+       sodipodi:role="line"
+       id="tspan942-5"
+       x="335.3053"
+       y="143.82495">PCC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="336.01465"
+     y="94.092918"
+     id="text944-6"><tspan
+       sodipodi:role="line"
+       id="tspan942-58"
+       x="336.01465"
+       y="94.092918">IPL</tspan></text>
+</svg>

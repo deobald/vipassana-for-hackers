@@ -33,7 +33,7 @@
    id="namedview242"
    showgrid="false"
    inkscape:zoom="1.3454929"
-   inkscape:cx="136.05671"
+   inkscape:cx="10.823793"
    inkscape:cy="347.46423"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
@@ -656,35 +656,46 @@
    cy="92.348366"
    rx="33.41584"
    ry="30.445543"
-   transform="rotate(6.4762921)" /><flowRoot
-   xml:space="preserve"
-   id="flowRoot1009"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(30,6)"><flowRegion
-     id="flowRegion1011"><rect
-       id="rect1013"
-       width="31.958548"
-       height="26.755995"
-       x="164.25208"
-       y="98.436539" /></flowRegion><flowPara
-     id="flowPara1015">AIC</flowPara></flowRoot><text
+   transform="rotate(6.4762921)" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-   x="158.46896"
-   y="228.32497"
+   x="160.46896"
+   y="234.32497"
    id="text1019"><tspan
      sodipodi:role="line"
      id="tspan1017"
-     x="158.46896"
-     y="228.32497">ACC</tspan></text>
+     x="160.46896"
+     y="234.32497">ACC</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
    x="262.89581"
-   y="225.82185"
+   y="231.82185"
    id="text1019-1"><tspan
      sodipodi:role="line"
      id="tspan1017-4"
      x="262.89581"
-     y="225.82185">ACC</tspan></text>
+     y="231.82185">ACC</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+   x="180.55769"
+   y="120.00043"
+   id="text1019-8"><tspan
+     sodipodi:role="line"
+     id="tspan1017-6"
+     x="180.55769"
+     y="120.00043">AIC</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+   x="247.67734"
+   y="120.00043"
+   id="text1019-11"><tspan
+     sodipodi:role="line"
+     id="tspan1017-3"
+     x="247.67734"
+     y="120.00043">AIC</tspan></text>
 </svg>

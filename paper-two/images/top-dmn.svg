@@ -19,7 +19,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
    id="metadata244"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,7 +33,7 @@
    id="namedview242"
    showgrid="false"
    inkscape:zoom="1.3454929"
-   inkscape:cx="89.082533"
+   inkscape:cx="-36.150384"
    inkscape:cy="261.6806"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
@@ -669,6 +669,7 @@
      id="tspan989"
      x="211.6843"
      y="144.29941">vmPFC</tspan></text>
+
 <ellipse
    style="opacity:1;fill:#ff9955;fill-opacity:1"
    id="path940-9-8"
@@ -684,13 +685,14 @@
    ry="30.445543" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-   x="214.47327"
+   x="210.47327"
    y="90.526756"
    id="text991-5"><tspan
      sodipodi:role="line"
      id="tspan989-6"
-     x="214.47327"
+     x="210.47327"
      y="90.526756">dmPFC</tspan></text>
+
 <ellipse
    style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:1.15835249"
    id="path940-9-5-3"
@@ -700,13 +702,14 @@
    ry="37.134541" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-   x="307.57272"
-   y="385.42871"
+   x="309.57272"
+   y="387.42871"
    id="text1058"><tspan
      sodipodi:role="line"
      id="tspan1056"
-     x="307.57272"
-     y="385.42871">IPL</tspan></text>
+     x="309.57272"
+     y="387.42871">IPL</tspan></text>
+
 <ellipse
    style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:1.15835249"
    id="path940-9-5-3-6"
@@ -717,12 +720,13 @@
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
    x="127.39316"
-   y="385.84427"
+   y="387.84427"
    id="text1058-1"><tspan
      sodipodi:role="line"
      id="tspan1056-7"
      x="127.39316"
-     y="385.84427">IPL</tspan></text>
+     y="387.84427">IPL</tspan></text>
+
 <ellipse
    style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:1.15835249"
    id="path940-9-5-3-0-4"
@@ -739,6 +743,7 @@
      id="tspan1056-7-6"
      x="216.79019"
      y="325.10104">PCC</tspan></text>
+
 <ellipse
    style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:1.15835249"
    id="path940-9-5-3-6-5"
@@ -761,6 +766,7 @@
      id="tspan1056-7-6-8"
      x="347.77155"
      y="225.92715">MTL</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -771,4 +777,5 @@
      id="tspan1056-7-6-8-0"
      x="76.808289"
      y="224.33228">MTL</tspan></text>
+
 </svg>

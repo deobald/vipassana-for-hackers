@@ -43,8 +43,8 @@
      id="namedview258"
      showgrid="false"
      inkscape:zoom="1.3466667"
-     inkscape:cx="4.6841707"
-     inkscape:cy="280.51756"
+     inkscape:cx="164.80785"
+     inkscape:cy="301.20094"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -553,12 +553,12 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
      x="148.63367"
-     y="130.23764"
+     y="134.23764"
      id="text947"><tspan
        sodipodi:role="line"
        id="tspan945"
        x="148.63367"
-       y="130.23764">DL-PFC</tspan></text>
+       y="134.23764">DL-PFC</tspan></text>
   <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path940-9-9"
@@ -570,12 +570,12 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
      x="69.093353"
-     y="203.44934"
+     y="205.44934"
      id="text947-6"><tspan
        sodipodi:role="line"
        id="tspan945-6"
        x="69.093353"
-       y="203.44934">OFC</tspan></text>
+       y="205.44934">OFC</tspan></text>
   <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path940-9-4"
@@ -586,11 +586,11 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="369.40594"
-     y="121.8416"
+     x="371.40594"
+     y="127.8416"
      id="text1017"><tspan
        sodipodi:role="line"
        id="tspan1015"
-       x="369.40594"
-       y="121.8416">PPC</tspan></text>
+       x="371.40594"
+       y="127.8416">PPC</tspan></text>
 </svg>
