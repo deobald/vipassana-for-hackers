@@ -36,7 +36,7 @@
      id="namedview242"
      showgrid="false"
      inkscape:zoom="1.3454929"
-     inkscape:cx="133.45543"
+     inkscape:cx="-0.32454015"
      inkscape:cy="258.27758"
      inkscape:window-x="0"
      inkscape:window-y="1"
@@ -664,7 +664,7 @@
        sodipodi:role="line"
        id="tspan1017"
        x="160.46896"
-       y="234.32497">ACC</tspan></text>
+       y="234.32497">AIC</tspan></text>
 <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -674,7 +674,7 @@
        sodipodi:role="line"
        id="tspan1017-4"
        x="262.89581"
-       y="231.82185">ACC</tspan></text>
+       y="231.82185">AIC</tspan></text>
 <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -684,7 +684,7 @@
        sodipodi:role="line"
        id="tspan1017-6"
        x="180.55769"
-       y="120.00043">AIC</tspan></text>
+       y="120.00043">ACC</tspan></text>
 <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -694,5 +694,5 @@
        sodipodi:role="line"
        id="tspan1017-3"
        x="247.67734"
-       y="120.00043">AIC</tspan></text>
+       y="120.00043">ACC</tspan></text>
 </svg>
