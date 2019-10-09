@@ -45,7 +45,7 @@
      id="namedview258"
      showgrid="false"
      inkscape:zoom="1.9044743"
-     inkscape:cx="165.94219"
+     inkscape:cx="71.427919"
      inkscape:cy="432.29656"
      inkscape:window-x="0"
      inkscape:window-y="1"
@@ -496,20 +496,20 @@
   <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path940-9"
-     cx="143.31683"
-     cy="230.19804"
+     cx="101.18668"
+     cy="197.39551"
      rx="33.41584"
      ry="30.445543" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="144.46535"
-     y="237.16832"
+     x="102.3352"
+     y="204.36578"
      id="text929"><tspan
        sodipodi:role="line"
        id="tspan927"
-       x="144.46535"
-       y="237.16832">AIC</tspan></text>
+       x="102.3352"
+       y="204.36578">ACC</tspan></text>
   <ellipse
      style="opacity:1;fill:#ff9955;fill-opacity:1"
      id="path940-9-0"
@@ -526,5 +526,5 @@
        sodipodi:role="line"
        id="tspan927-5"
        x="209.38435"
-       y="175.61768">ACC</tspan></text>
+       y="175.61768">AIC</tspan></text>
 </svg>
