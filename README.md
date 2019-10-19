@@ -49,5 +49,6 @@ $ ./build-epub.sh
 - [x] Add a Makefile
 - [x] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
 - [x] Test epub gen, add to makefile, add full build target
+- [ ] Preethi to format references in Paper Two
 - [ ] Transcribe Paper Three and Paper Four notes
 - [ ] Invert brain diagram colours for Paper One
