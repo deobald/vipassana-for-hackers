@@ -24,6 +24,8 @@ On a Mac, the easiest option is installing [MacTeX](https://tug.org/mactex/macte
 $ git clone https://github.com/deobald/vipassana-for-hackers
 $ cd vipassana-for-hackers/paper-one
 $ ./build-pdf.sh
+$ cd vipassana-for-hackers/paper-two
+$ ./build-pdf.sh
 ```
 
 You will see many warnings but you shouldn't see any errors.
