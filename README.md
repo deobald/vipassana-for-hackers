@@ -38,8 +38,11 @@ The epub version of the LaTeX was generated with the following procedure on macO
 $ git clone https://github.com/deobald/vipassana-for-hackers
 $ brew install latexml
 $ brew install caskroom/cask/calibre
+$ brew install graphicsmagick # optional
 $ cd vipassana-for-hackers/paper-one
 $ ./build-epub.sh
+$ cd vipassana-for-hackers/paper-two
+$ ./build-epub.sh # will produce an ignorable error: Unknown option `reprint'
 ```
 
 ## TODO
