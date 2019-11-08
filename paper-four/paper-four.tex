@@ -1,31 +1,46 @@
-\documentclass{article}
+\documentclass[a4paper, amsfonts, amssymb, amsmath, reprint, showkeys, nofootinbib, twoside]{revtex4-1}
 
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[colorinlistoftodos, color=green!40, prependcaption]{todonotes}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[bottom]{footmisc}
 \usepackage{enumitem}
+\usepackage{hyperref}
 
 \setlength{\parindent}{1.3em}
 \setlength{\parskip}{0.7em}
+
+\bibliographystyle{apsrev4-1}
 \setlist{noitemsep}
 
 \begin{document}
 
-\begin{titlepage}
-   \vspace*{\stretch{1.0}}
-   \begin{center}
-     \Huge\textbf{Vipassana for Hackers}\\
-     \Huge{Paper Four: Mastering Spacetime}\\
-     \vspace{5cm}
-     \large\textit{Steven Deobald}\\
-     \large\textit{Version 0.1 DRAFT}\\
-     \large\textit\today\\
-     \vspace{5cm}
-     \large\textit{}\\
-   \end{center}
-   \vspace*{\stretch{2.0}}
-\end{titlepage}
 
-\begin{center}
-  \Huge{Target Audience}
-\end{center}
+\title{%
+  \large{Vipassana for Hackers} \\
+  \Huge{Paper Four: Mastering Spacetime} \\
+  \large\textit{Version 0.1}
+}
+\author{Steven Deobald}
+\email[Correspondence email address: ]{steven@deobald.ca}
+\affiliation{vipassana-for-hackers.org}
+\date{\today}
+
+\begin{abstract}
+ \todo{Write the abstract.}
+\end{abstract}
+
+% \keywords{}
+
+\maketitle
+
+\section{Target Audience}
+
+The target audience for this paper remains ``hackers'' for the broadest possible
+definition of that word. \todo{ref: from cherry?}
 
 \begin{itemize}
   \item Old students (Goenka; forward ref other methods of learning)
@@ -33,11 +48,10 @@
   \item Meditators who haven't chosen a technique yet
 \end{itemize}
 
-\pagebreak
 
-\begin{center}
-  \Huge{Eka Maggo? Learning Vipassana Elsewhere}
-\end{center}
+\section{Eka Maggo: The One and Only Path}
+
+\subsection{Learning Vipassana Elsewhere}
 
 \begin{itemize}
   \item Ledi Sayadaw: 5 hours a day anapana, ``hairs of the head and the body''
@@ -45,11 +59,43 @@
   \item ``Vipassana'': sensations matter more than terminology (3-day course, 10-day course), other forms of ``Vipassana'' not of interest, Zazen
 \end{itemize}
 
-\pagebreak
+\subsection{How is Vipassana ``Complete''?}
 
-\begin{center}
-  \Huge{Concepts, Ideas, Help}
-\end{center}
+- 7 doors
+- TM says to use your imagination exclusively, with a mantra
+- Anapana variations say to use the breath (sensation) exclusively, with a limitation to a particular area
+- Void-based meditations (yoga, elsewhere) suggest you can divorce yourself of attention from any one of these phenomena… which is pretty unlikely for a beginner
+- “Sound of Silence” focuses on the ear sense door + tinitus
+- other forms of Vipassana focus entirely on thoughts
+- Zazen, generally, says open yourself to all 7 sense doors, all at once.
+... they all choose an object of meditation within these 7 doors.
+
+- mind / body === brain / nervous system
+
+- vipassana the largest superset
+
+- anapana covers time, vipassana covers space
+
+Anapana eliminates space.
+
+It says “focus here, on this tiny area… make the area as tiny as possible, with no
+limit or exception. Now all you have to do is follow your breath in the tiniest
+slices possible, making time stretch out longer and longer with every sub-slice.”
+
+Anapana is mastery over time.
+
+Vipassana is harder. It stops ignoring space and actually adds it to the equation. You move your attention throughout your entire body (which is the only thing you have direct access to: sensation) with the narrow focus you trained yourself to achieve in the first 3 days of the course. As your apparent physical existence begins to break apart, you’ll open up your attention to the whole body, all at once (or as much as possible at once) but even after 9 Vipassana courses, I rarely ever do anything approximating that because I’m quite a beginner. 🙂
+
+Anyway.
+
+Vipassana is mastery over time + space.
+
+...once you have that, there’s nothing left.
+
+- Day 8: Meditate all the time.
+
+
+\section{Concepts, Ideas, Help}
 
 \begin{itemize}
   \item The Cheat Code: moving attention => sati vs. anicca
@@ -57,11 +103,8 @@
   \item Learn to sit cross-legged
 \end{itemize}
 
-\pagebreak
 
-\begin{center}
-  \Huge{Warnings}
-\end{center}
+\section{Warnings}
 
 \begin{itemize}
   \item This document itself is a hindrance
@@ -69,5 +112,35 @@
   \item Do not use meditation to get high
   \item Do not mix meditations (1. dangers, 2. meditation ``doing itself'' - anatta)
 \end{itemize}
+
+
+\section*{Acknowledgements}
+
+Thank you to Preethi Govindarajan for reviewing this paper.
+
+
+\section*{References}
+
+\begin{thebibliography}{99}
+
+\bibitem{sense-icons}
+  5 Senses by Daniel Falk from the Noun Project
+  \url{https://thenounproject.com/daniel2021/collection/human-body-senses/}
+  Thought by Nociconist from the Noun Project
+  \url{https://thenounproject.com/search/?q=thought&i=2025873}
+  Heart by Rafael Garcia Motta from the Noun Project
+  \url{https://thenounproject.com/search/?q=heart&i=807960}
+  Body by Makarenko Andrey from the Noun Project
+  \url{https://thenounproject.com/search/?q=body&i=789989}
+  \textit{The Noun Project}.
+
+\bibitem{dhamma}
+  Vipassana International Academy
+  \url{https://www.dhamma.org}
+  \textit{Vipassana Meditation Website}
+
+
+\end{thebibliography}
+
 
 \end{document}
