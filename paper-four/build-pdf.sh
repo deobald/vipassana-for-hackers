@@ -11,4 +11,4 @@ xelatex -output-directory=$OUT paper-four.tex # > /dev/null 2>&1
 echo "...done. Now running the build."
 xelatex -output-directory=$OUT paper-four.tex
 
-rm -f texput.log $OUT/*.aux $OUT/*.log $OUT/*.out
+rm -f texput.log $OUT/*.aux $OUT/*.log $OUT/*.out $OUT/*.tdo $OUT/*.bib
