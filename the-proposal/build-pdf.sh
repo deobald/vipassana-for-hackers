@@ -12,11 +12,15 @@ SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 LIBPATH="$SCRIPTPATH/../lib"
 PATH=$PATH:$LIBPATH
 
-OUT=../output
+echo "Running bibliography pre-build. This takes a while..."
+xelatex the-proposal.tex > /dev/null 2>&1
+echo "Generating bibliography..."
+bibtex the-proposal.aux
+read -p "Press enter to continue"
 
-echo "Running pre-build. This takes a while..."
-xelatex -output-directory=$OUT the-proposal.tex > /dev/null 2>&1
-echo "...done. Now running the build."
-xelatex -output-directory=$OUT the-proposal.tex
+echo "Running PDF pre-build. This takes a while..."
+xelatex the-proposal.tex > /dev/null 2>&1
+echo "...done. Now running the PDF build."
+xelatex the-proposal.tex
 
-rm -f texput.log $OUT/*.aux $OUT/*.log $OUT/*.out $OUT/*.tdo $OUT/*.bib
+mv the-proposal.pdf ../output/the-proposal.pdf
