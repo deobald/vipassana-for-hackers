@@ -27,6 +27,6 @@ output/the-proposal.pdf:
 	cd the-proposal && ./build-pdf.sh
 
 clean:
-	rm -f output/*.pdf output/*.epub
-    rm -f texput.log output/*.aux output/*.log output/*.out output/*.tdo output/Notes*.bib
-	rm -f the-proposal/*.aux the-proposal/*.log the-proposal/*.out the-proposal/*.tdo the-proposal/*Notes.bib
+	rm -f output/*.pdf output/*.epub; \
+    rm -f texput.log output/*.aux output/*.log output/*.out output/*.tdo output/Notes*.bib; \
+	rm -f the-proposal/*.aux the-proposal/*.log the-proposal/*.out the-proposal/*.tdo the-proposal/*Notes.bib; \
