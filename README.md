@@ -1,12 +1,36 @@
 # Vipassana for Hackers
 
-A document version of the talk "[Vipassana for Hackers](https://www.youtube.com/watch?v=1BWYqHbF00c)" by Steven Deobald ([GitHub](https://github.com/deobald), [Twitter](https://twitter.com/deobald)).
+A document version of the talk
+"[Vipassana for Hackers](https://www.youtube.com/watch?v=1BWYqHbF00c)"
+by Steven Deobald ([GitHub](https://github.com/deobald),
+[Twitter](https://twitter.com/deobald)).
+
+---
+
+## Setup
+
+### Linux:
+
+```
+sudo apt install texlive-full
+```
+
+### Mac:
+
+* Install MacTeX: https://www.tug.org/mactex/mactex-download.html
+* For EPUB builds, you'll need:
+
+```
+brew install latexml
+brew install caskroom/cask/calibre
+brew install graphicsmagick # optional
+```
 
 ---
 
 ## Generate the Papers
 
-On a Mac, install MacTeX, LaTeXML, and Calibre as instructed below. (Linux should be similar.) Clone and make:
+Clone and make:
 
 ```sh
 $ git clone https://github.com/deobald/vipassana-for-hackers
@@ -37,14 +61,14 @@ You will see many warnings but you shouldn't see any errors.
 The epub version of the LaTeX was generated with the following procedure on macOS 10.10.5 and 10.13.4. Each script builds an epub for one paper at a time.
 
 ```sh
-$ git clone https://github.com/deobald/vipassana-for-hackers
-$ brew install latexml
-$ brew install caskroom/cask/calibre
-$ brew install graphicsmagick # optional
-$ cd vipassana-for-hackers/paper-one
-$ ./build-epub.sh
-$ cd vipassana-for-hackers/paper-two
-$ ./build-epub.sh # will produce an ignorable error: Unknown option `reprint'
+git clone https://github.com/deobald/vipassana-for-hackers
+brew install latexml
+brew install caskroom/cask/calibre
+brew install graphicsmagick # optional
+cd vipassana-for-hackers/paper-one
+./build-epub.sh
+cd vipassana-for-hackers/paper-two
+./build-epub.sh # will produce an ignorable error: Unknown option `reprint'
 ```
 
 ## TODO
