@@ -7,6 +7,20 @@ by Steven Deobald ([GitHub](https://github.com/deobald),
 
 ---
 
+## TODO
+
+- [ ] tex4ebook vs. LaTeXML?
+- [ ] Preethi to format references in Paper Two
+- [ ] Transcribe Paper Three and Paper Four notes
+- [ ] Invert brain diagram colours for Paper One
+- [x] Create output directory
+- [x] Script epub generation
+- [x] Add a Makefile
+- [x] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
+- [x] Test epub gen, add to makefile, add full build target
+
+---
+
 ## Setup
 
 ### Linux:
@@ -75,14 +89,3 @@ cd vipassana-for-hackers/paper-one
 cd vipassana-for-hackers/paper-two
 ./build-epub.sh # will produce an ignorable error: Unknown option `reprint'
 ```
-
-## TODO
-
-- [x] Create output directory
-- [x] Script epub generation
-- [x] Add a Makefile
-- [x] Switch Paper One 70-minute (children's) Anapana to 20-minute (adult)
-- [x] Test epub gen, add to makefile, add full build target
-- [ ] Preethi to format references in Paper Two
-- [ ] Transcribe Paper Three and Paper Four notes
-- [ ] Invert brain diagram colours for Paper One
