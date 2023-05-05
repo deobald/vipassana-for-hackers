@@ -1,10 +1,18 @@
 \documentclass{article}
 
 \usepackage{fontspec}
-\newfontfamily\devanagarifontsans{NotoSansDevanagari-Regular.ttf}[
-  BoldFont = NotoSansDevanagari-Bold.ttf ]
-\newfontfamily\devanagarifontserif{NotoSerifDevanagari-Regular.ttf}[
-  BoldFont = NotoSerifDevanagari-Bold.ttf ]
+
+% HACK: ignore \newfontfamily for LaTeXML (epub), otherwise
+%       the optional paremeters are printed in the doc
+\ifdefined\newfontfamily
+  \newfontfamily\devanagarifontsans{NotoSansDevanagari-Regular.ttf}[ BoldFont = NotoSansDevanagari-Bold.ttf ]
+  \newfontfamily\devanagarifontserif{NotoSerifDevanagari-Regular.ttf}[ BoldFont = NotoSerifDevanagari-Bold.ttf ]
+\fi
+
+% HACK: ignore \devanagarifontserif for LaTeXML (epub)
+\ifx\devanagarifontserif\undefined
+  \let\devanagarifontserif\textnormal
+\fi
 
 \usepackage{graphicx}
 \usepackage{subcaption}
