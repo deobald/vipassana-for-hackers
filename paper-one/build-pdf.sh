@@ -14,7 +14,9 @@ PATH=$PATH:$LIBPATH
 
 OUT=../output
 
-echo "Running pre-build. This takes a while..."
+echo "Running pre-build. This takes a while."
+echo "However, if it seems to hang, remove pipe to /dev/null"
+echo "..."
 xelatex -output-directory=$OUT paper-one.tex > /dev/null 2>&1
 echo "...done. Now running the build."
 xelatex -output-directory=$OUT paper-one.tex

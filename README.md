@@ -13,6 +13,11 @@ by Steven Deobald ([GitHub](https://github.com/deobald),
 
 ```
 sudo apt install texlive-full
+sudo apt install fonts-deva-extra
+sudo apt install latexml
+sudo apt install calibre
+sudo apt install tidy
+sudo apt install graphicsmagick graphicsmagick-dbg # optional
 ```
 
 ### Mac:
