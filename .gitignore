@@ -11,3 +11,7 @@
 *Notes.bib
 *.bbl
 *.blg
+
+# LibreOffice Writer
+.~lock*
+
